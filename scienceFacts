@@ -68,5 +68,12 @@
     "imageURL": "assets/homepage/scientist.jpg",
     "icon": "assets/homepage/scientist_icon.png",
     "category": "Scientist"
+  },
+  {
+    "title": "Psychology",
+    "description": "Learn about the scientists and inventors whose discoveries changed the world forever.",
+    "imageURL": "assets/homepage/scientist.jpg",
+    "icon": "assets/homepage/scientist_icon.png",
+    "category": "Psychology"
   }
 ]
