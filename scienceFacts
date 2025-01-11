@@ -1,79 +1,79 @@
 [
   {
     "title": "The Wonders of Physics",
-    "description": "Discover how the universe works, from the speed of light to the secrets of gravity.",
+    "description": "Dive deep into the laws of nature! Discover how the universe operates, from the speed of light to the mysteries of gravity and motion. Learn how forces, energy, and matter interact to shape the world around us.",
     "imageURL": "assets/homepage/physics.jpg",
     "icon": "assets/homepage/physics_icon.png",
     "category": "Physics"
   },
   {
     "title": "Chemistry Unveiled",
-    "description": "Explore the magic of molecules, reactions, and the elements that make up our world.",
+    "description": "Uncover the building blocks of our world! Explore the wonders of atoms, molecules, and how they combine to create new substances. Learn about fascinating reactions, the periodic table, and the chemistry behind everyday life.",
     "imageURL": "assets/homepage/chemistry.jpg",
     "icon": "assets/homepage/chemistry_icon.png",
     "category": "Chemistry"
   },
   {
     "title": "Biology Basics",
-    "description": "Dive into the living world and uncover the mysteries of life, from cells to ecosystems.",
+    "description": "Step into the living world! From the microscopic cells that make up all organisms to vast ecosystems, learn how life works, adapts, and thrives. Discover the secrets of genetics, evolution, and the biodiversity of our planet.",
     "imageURL": "assets/homepage/biology.jpg",
     "icon": "assets/homepage/biology_icon.png",
     "category": "Biology"
   },
   {
     "title": "Exploring the Cosmos",
-    "description": "Journey through space to learn about stars, planets, and the incredible phenomena beyond Earth.",
+    "description": "Take a journey through the universe! Learn about stars, galaxies, planets, and cosmic phenomena like black holes and supernovas. Unravel the mysteries of space and imagine the possibilities of life beyond Earth.",
     "imageURL": "assets/homepage/universe.jpg",
     "icon": "assets/homepage/universe_icon.png",
     "category": "Universe"
   },
   {
     "title": "Earth's Secrets",
-    "description": "Unlock the mysteries of our planet, from the formation of rocks to the water cycle.",
+    "description": "Explore the planet we call home! Understand how Earth's layers were formed, the processes that shape landscapes, and the importance of natural cycles like the water and carbon cycles. Delve into geology, meteorology, and Earth's ever-changing climate.",
     "imageURL": "assets/homepage/earth_science.jpg",
     "icon": "assets/homepage/earth_science_icon.png",
     "category": "Earth Science"
   },
   {
     "title": "Health & Wellness",
-    "description": "Learn about how your body works, the importance of nutrition, and the marvels of modern medicine.",
+    "description": "Discover the incredible ways your body functions! Learn about the importance of nutrition, exercise, and the systems that keep you alive and healthy. Explore breakthroughs in modern medicine and the science behind disease prevention.",
     "imageURL": "assets/homepage/health.jpg",
     "icon": "assets/homepage/health_icon.png",
     "category": "Health"
   },
   {
     "title": "Technological Marvels",
-    "description": "Discover how inventions and engineering shape the world we live in, from robotics to AI.",
+    "description": "Experience the power of human innovation! From ancient tools to cutting-edge robotics and artificial intelligence, learn how technology transforms our world. Discover the engineering feats behind modern conveniences and futuristic breakthroughs.",
     "imageURL": "assets/homepage/technology.jpg",
     "icon": "assets/homepage/technology_icon.png",
     "category": "Technology and Engineering"
   },
   {
     "title": "Geography Adventures",
-    "description": "Explore our world! Learn about countries, landmarks, and the natural wonders of Earth.",
+    "description": "Embark on a journey across the globe! Learn about continents, countries, cultures, and natural wonders. Explore mountains, rivers, and deserts, and understand how geography influences climate, ecosystems, and human life.",
     "imageURL": "assets/homepage/geography.jpg",
     "icon": "assets/homepage/geography_icon.png",
     "category": "Geography"
   },
+{
+    "title": "Exploring the Human Mind",
+    "description": "Understand how the brain works and why we think, feel, and act the way we do. Learn about emotions, memory, problem-solving, and behavior. Explore the fascinating field of psychology and how it impacts everyday life.",
+    "imageURL": "assets/homepage/psychology.jpg",
+    "icon": "assets/homepage/psychology_icon.png",
+    "category": "Psychology"
+  },
   {
     "title": "Fun Brain Teasers",
-    "description": "Challenge yourself with tricky puzzles and questions that test your logic and creativity.",
+    "description": "Sharpen your mind with fun challenges! Solve puzzles, riddles, and logic games designed to test your creativity, memory, and critical thinking skills. Perfect for curious learners of all ages!",
     "imageURL": "assets/homepage/brainteaser_quiz.jpg",
     "icon": "assets/homepage/brainteaser_quiz_icon.png",
     "category": "Brainteaser Quiz"
   },
   {
     "title": "Genius Minds",
-    "description": "Learn about the scientists and inventors whose discoveries changed the world forever.",
+    "description": "Get inspired by the greatest thinkers in history! Learn about brilliant scientists, inventors, and their groundbreaking discoveries that revolutionized the way we understand the world. Celebrate the minds that made history.",
     "imageURL": "assets/homepage/scientist.jpg",
     "icon": "assets/homepage/scientist_icon.png",
     "category": "Scientist"
-  },
-  {
-    "title": "Psychology",
-    "description": "Learn about the scientists and inventors whose discoveries changed the world forever.",
-    "imageURL": "assets/homepage/scientist.jpg",
-    "icon": "assets/homepage/scientist_icon.png",
-    "category": "Psychology"
   }
 ]
