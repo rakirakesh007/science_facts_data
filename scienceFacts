@@ -1,79 +1,3192 @@
 [
-  {
-    "title": "The Wonders of Physics",
-    "description": "Dive deep into the laws of nature! Discover how the universe operates, from the speed of light to the mysteries of gravity and motion. Learn how forces, energy, and matter interact to shape the world around us.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/physics.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/physics_icon.png",
-    "category": "Physics"
-  },
-  {
-    "title": "Chemistry Unveiled",
-    "description": "Uncover the building blocks of our world! Explore the wonders of atoms, molecules, and how they combine to create new substances. Learn about fascinating reactions, the periodic table, and the chemistry behind everyday life.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/chemistry.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/chemistry_icon.png",
-    "category": "Chemistry"
-  },
-  {
-    "title": "Biology Basics",
-    "description": "Step into the living world! From the microscopic cells that make up all organisms to vast ecosystems, learn how life works, adapts, and thrives. Discover the secrets of genetics, evolution, and the biodiversity of our planet.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/biology.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/biology_icon.png",
-    "category": "Biology"
-  },
-  {
-    "title": "Exploring the Cosmos",
-    "description": "Take a journey through the universe! Learn about stars, galaxies, planets, and cosmic phenomena like black holes and supernovas. Unravel the mysteries of space and imagine the possibilities of life beyond Earth.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/universe.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/universe_icon.png",
-    "category": "Universe"
-  },
-  {
-    "title": "Earth's Secrets",
-    "description": "Explore the planet we call home! Understand how Earth's layers were formed, the processes that shape landscapes, and the importance of natural cycles like the water and carbon cycles. Delve into geology, meteorology, and Earth's ever-changing climate.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/earth_science.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/earth_science_icon.png",
-    "category": "Earth Science"
-  },
-  {
-    "title": "Health & Wellness",
-    "description": "Discover the incredible ways your body functions! Learn about the importance of nutrition, exercise, and the systems that keep you alive and healthy. Explore breakthroughs in modern medicine and the science behind disease prevention.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/health.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/health_icon.png",
-    "category": "Health"
-  },
-  {
-    "title": "Technological Marvels",
-    "description": "Experience the power of human innovation! From ancient tools to cutting-edge robotics and artificial intelligence, learn how technology transforms our world. Discover the engineering feats behind modern conveniences and futuristic breakthroughs.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/technology.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/technology_icon.png",
-    "category": "Technology and Engineering"
-  },
-  {
-    "title": "Geography Adventures",
-    "description": "Embark on a journey across the globe! Learn about continents, countries, cultures, and natural wonders. Explore mountains, rivers, and deserts, and understand how geography influences climate, ecosystems, and human life.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/geography.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/geography_icon.png",
-    "category": "Geography"
-  },
-{
-    "title": "Exploring the Human Mind",
-    "description": "Understand how the brain works and why we think, feel, and act the way we do. Learn about emotions, memory, problem-solving, and behavior. Explore the fascinating field of psychology and how it impacts everyday life.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/psychology.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/psychology_icon.png",
-    "category": "Psychology"
-  },
-  {
-    "title": "Genius Minds",
-    "description": "Get inspired by the greatest thinkers in history! Learn about brilliant scientists, inventors, and their groundbreaking discoveries that revolutionized the way we understand the world. Celebrate the minds that made history.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/scientist.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/scientist_icon.png",
-    "category": "Scientist"
-  },
-{
-    "title": "Fun Brain Teasers",
-    "description": "Sharpen your mind with fun challenges! Solve puzzles, riddles, and logic games designed to test your creativity, memory, and critical thinking skills. Perfect for curious learners of all ages!",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/brainteaser_quiz.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/brainteaser_quiz_icon.png",
-    "category": "Brainteaser Quiz"
-  }
+    {
+        "title": "Sound Travels Faster in Water Than in Air",
+        "description": "Did you know sound travels at different speeds in different materials? In water, it moves about four times faster than in air! This is because water molecules are packed closer together, allowing sound waves to pass through more quickly.",
+        "category": "Physics"
+    },
+    {
+        "title": "A Lightning Bolt Is Hotter Than the Sun",
+        "description": "Lightning can reach temperatures of up to 30,000 Kelvin, which is about five times hotter than the surface of the Sun. The intense heat causes the surrounding air to expand rapidly, creating the thunder we hear.",
+        "category": "Physics"
+    },
+    {
+        "title": "Ice Floats Because It\u2019s Less Dense Than Water",
+        "description": "When water freezes, its molecules form a unique structure that makes ice less dense than liquid water. This is why icebergs float on the ocean and why lakes freeze from the top down, protecting aquatic life.",
+        "category": "Physics"
+    },
+    {
+        "title": "Black Holes Can Bend Light",
+        "description": "Black holes are so dense that their gravity can bend light around them. This phenomenon, called 'gravitational lensing,' allows us to see objects behind a black hole as if they were being magnified.",
+        "category": "Physics"
+    },
+    {
+        "title": "Gravity on the Moon Is Much Weaker Than on Earth",
+        "description": "The Moon's gravity is only about one-sixth as strong as Earth's gravity. This is why astronauts can jump higher and move more easily on the Moon\u2014it\u2019s like being on a low-gravity playground!",
+        "category": "Physics"
+    },
+    {
+        "title": "If the Earth Doubled in Size, Trees Would Immediately Fall Over",
+        "description": "If Earth doubled in size, the surface gravity would increase, making it difficult for large animals and trees to survive, as their structure would collapse under the increased weight.",
+        "category": "Physics"
+    },
+    {
+        "title": "Protons Look Like Peanuts, Rugby Balls, Bagels, and Spheres",
+        "description": "Protons can take on different shapes, such as peanuts, rugby balls, bagels, or spheres, depending on the speed and configuration of the smaller particles inside them called quarks.",
+        "category": "Physics"
+    },
+    {
+        "title": "Friction \u2013 The Force That Slows Things Down",
+        "description": "Friction happens when two things rub against each other, like your shoes on the floor. It helps us walk without slipping, but it also makes it harder to slide something heavy.",
+        "category": "Physics"
+    },
+    {
+        "title": "The Pull of Gravity",
+        "description": "Gravity is the invisible force that pulls everything toward the ground. It's why an apple falls from a tree and why we stay on the Earth instead of floating away!",
+        "category": "Physics"
+    },
+    {
+        "title": "Electrons Might Live Forever",
+        "description": "Electrons could potentially live forever. Estimates suggest they have a minimum lifetime of 6.6 \u00d7 10^28 years, far longer than the current age of the Universe.",
+        "category": "Physics"
+    },
+    {
+        "title": "Earth's Rotation Is Slowing",
+        "description": "Earth's rotation is gradually slowing, lengthening the day by about 1.8 seconds every century. 600 million years ago, a day lasted only 21 hours.",
+        "category": "Physics"
+    },
+    {
+        "title": "Clouds Are Heavy",
+        "description": "The average cloud weighs about 1.1 million pounds, more than a fully-loaded 747 airplane. Yet, they float because the air below them is denser.",
+        "category": "Physics"
+    },
+    {
+        "title": "Water Might Not Be Wet",
+        "description": "Wetness is defined as a liquid's ability to adhere to a solid. By this definition, water itself isn't wet but can make other objects wet.",
+        "category": "Physics"
+    },
+    {
+        "title": "Mirrors Facing Each Other Don't Produce Infinite Reflections",
+        "description": "When mirrors face each other, the reflections eventually fade as each one absorbs some light, creating a limited number of reflections.",
+        "category": "Physics"
+    },
+    {
+        "title": "Electric Currents Make Magnets",
+        "description": "Wrap a wire around a nail and connect it to a battery, and you\u2019ve made an electromagnet! It\u2019s a magnet powered by electricity.",
+        "category": "Physics"
+    },
+    {
+        "title": "You Can\u2019t Burp in Space",
+        "description": "Burping in space is impossible due to the lack of gravity, which prevents gases from separating from liquids in your stomach.",
+        "category": "Physics"
+    },
+    {
+        "title": "Wind Energy \u2013 Power From Air",
+        "description": "Big windmills, called turbines, use the wind\u2019s movement to make electricity. It's another clean and renewable energy source!",
+        "category": "Physics"
+    },
+    {
+        "title": "The Earth\u2019s Magnetic Field",
+        "description": "The Earth acts like a giant magnet with north and south poles. This magnetic field protects us from harmful space radiation.",
+        "category": "Physics"
+    },
+    {
+        "title": "Solar Energy \u2013 Power From the Sun",
+        "description": "Solar panels collect sunlight and turn it into electricity. It\u2019s a clean and renewable way to power our homes and gadgets.",
+        "category": "Physics"
+    },
+    {
+        "title": "Why Planes Stay in the Sky",
+        "description": "Airplanes fly because of lift, a force created by their wings. Lift works against gravity to keep the plane up in the sky.",
+        "category": "Physics"
+    },
+    {
+        "title": "Magnets Have a Magical Pull",
+        "description": "Magnets can pull certain metals toward them. The Earth is like a giant magnet, which is why compasses always point north!",
+        "category": "Physics"
+    },
+    {
+        "title": "Static Electricity \u2013 The Spark of Fun",
+        "description": "Rub a balloon on your hair, and your hair stands up! That\u2019s static electricity, caused by tiny particles moving around.",
+        "category": "Physics"
+    },
+    {
+        "title": "A Lightning Bolt Is Five Times Hotter Than the Surface of the Sun",
+        "description": "A lightning bolt reaches temperatures of 30,000\u00b0C (54,000\u00b0F), which is five times hotter than the surface of the Sun.",
+        "category": "Physics"
+    },
+    {
+        "title": "Air Resistance \u2013 The Invisible Brake",
+        "description": "When you ride a bike fast, the wind pushes against you. This is air resistance, a type of friction caused by the air!",
+        "category": "Physics"
+    },
+    {
+        "title": "You Can Yo-Yo in Space",
+        "description": "Astronaut Don Pettit demonstrated yo-yo tricks on the International Space Station using angular momentum principles.",
+        "category": "Physics"
+    },
+    {
+        "title": "Light Bounces Off Mirrors",
+        "description": "Light travels in straight lines, but when it hits a mirror, it bounces back. That\u2019s how you can see your reflection!",
+        "category": "Physics"
+    },
+    {
+        "title": "Sound Travels in Waves",
+        "description": "Sound moves like waves in the air. When you speak, your vocal cords make sound waves that travel to someone\u2019s ears!",
+        "category": "Physics"
+    },
+    {
+        "title": "Kinetic Energy \u2013 The Energy of Movement",
+        "description": "When you ride a bike or throw a ball, you\u2019re using kinetic energy. Anything that\u2019s moving has this type of energy.",
+        "category": "Physics"
+    },
+    {
+        "title": "The Strongest Force: Gravity on a Black Hole",
+        "description": "Black holes have so much gravity that they can pull in light and anything near them. That\u2019s why they\u2019re invisible!",
+        "category": "Physics"
+    },
+    {
+        "title": "Sound Can Be Minus Decibels",
+        "description": "Microsoft\u2019s anechoic chamber in Redmond, WA, USA, measures -20.6 decibels, making it the quietest place on Earth.",
+        "category": "Physics"
+    },
+    {
+        "title": "Batteries Store Energy",
+        "description": "Batteries keep energy inside them until we use it. They power things like toys, flashlights, and remote controls.",
+        "category": "Physics"
+    },
+    {
+        "title": "Light is Faster Than Anything Else",
+        "description": "Light travels super fast\u2014about 300,000 kilometers per second! It\u2019s why you see lightning before hearing thunder.",
+        "category": "Physics"
+    },
+    {
+        "title": "Why Things Stay Still or Move",
+        "description": "Objects stay still unless a force pushes or pulls them. That\u2019s why a soccer ball won\u2019t roll unless you kick it!",
+        "category": "Physics"
+    },
+    {
+        "title": "The Sun Makes Sound We Can't Hear",
+        "description": "The Sun produces pressure waves that create sound, but the wavelengths are too large for human ears to detect.",
+        "category": "Physics"
+    },
+    {
+        "title": "Animals Hear Better Than Us",
+        "description": "Some animals, like dogs, can hear sounds we can\u2019t. That\u2019s because they hear higher frequencies than humans do.",
+        "category": "Physics"
+    },
+    {
+        "title": "Shadows Are Made by Light",
+        "description": "Shadows happen when something blocks the light. The closer the object is to the light, the bigger the shadow!",
+        "category": "Physics"
+    },
+    {
+        "title": "Why Rainbows Happen",
+        "description": "When sunlight passes through raindrops, it splits into seven colors. That\u2019s how beautiful rainbows are made!",
+        "category": "Physics"
+    },
+    {
+        "title": "Earth Is Squashed",
+        "description": "Earth isn\u2019t a perfect sphere! Its rotation makes it bulge at the equator and flatten slightly at the poles.",
+        "category": "Physics"
+    },
+    {
+        "title": "Electricity Powers Our World",
+        "description": "Electricity flows through wires to turn on lights, TVs, and phones. It\u2019s like an invisible river of energy!",
+        "category": "Physics"
+    },
+    {
+        "title": "Potential Energy \u2013 Stored Power",
+        "description": "A stretched rubber band or a ball on a hill has potential energy. It\u2019s stored energy waiting to be used!",
+        "category": "Physics"
+    },
+    {
+        "title": "Food is Energy for Our Bodies",
+        "description": "The food we eat gives our body energy to move, think, and grow. This energy is like fuel for a car!",
+        "category": "Physics"
+    },
+    {
+        "title": "You Can\u2019t Fold a Piece of A4 Paper More Than Eight Times",
+        "description": "The number of layers doubles each time, making it too thick and small to fold after eight times.",
+        "category": "Physics"
+    },
+    {
+        "title": "A Horse Has More Than One Horsepower",
+        "description": "A horse can produce up to 24 horsepower at maximum effort, according to a 1993 study.",
+        "category": "Physics"
+    },
+    {
+        "title": "Heat Energy is Everywhere",
+        "description": "Heat is a type of energy. Rubbing your hands together makes heat because of friction!",
+        "category": "Physics"
+    },
+    {
+        "title": "The Moon\u2019s Temperature Swings Are Extreme",
+        "description": "The Moon gets super hot during the day (224\u00b0F) and freezing cold at night (-243\u00b0F).",
+        "category": "Physics"
+    },
+    {
+        "title": "Diamonds Are Made of Pure Carbon",
+        "description": "Diamonds and graphite are both made of carbon, but their atoms are arranged differently. This difference in structure makes diamonds the hardest natural substance, while graphite is soft and used in pencils.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Water Can Boil and Freeze at the Same Time",
+        "description": "Under special conditions called the 'triple point,' water can exist as a solid, liquid, and gas simultaneously. This happens when temperature and pressure are just right, like in certain lab experiments.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Salt Is the Only Rock Humans Can Eat",
+        "description": "Salt, or sodium chloride, is a mineral we can safely consume. It\u2019s essential for our body as it helps with muscle function and hydration. However, too much salt can be harmful, so balance is key!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Gold Is So Soft It Can Be Stretched Into Thin Wires",
+        "description": "Pure gold is a very malleable metal. In fact, just one gram of gold can be stretched into a wire over 2 kilometers long. This property makes gold useful in electronics and jewelry.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Salt in Water Lowers the Volume",
+        "description": "When you add salt to water, the water level doesn\u2019t rise like you\u2019d think. Instead, it goes down a little because the water molecules get packed more tightly around the salt.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Ice Expands When it Freezes",
+        "description": "Most things shrink when they get cold, but water is special! When it freezes, it expands because of the way its molecules arrange themselves. That\u2019s why ice floats in water!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Gold and Copper are Unique Metals",
+        "description": "Unlike most metals that are silver-colored, gold and copper stand out because of their beautiful yellow and reddish colors. Fun fact: Copper is naturally antibacterial too!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Diamonds and Pencils Share the Same Carbon",
+        "description": "Both diamonds and pencil lead are made of carbon. The difference is how the carbon atoms are arranged. One makes it shiny and hard, the other soft and useful for writing!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Air Can Turn Into Liquid",
+        "description": "Did you know air can become a liquid if it\u2019s cold enough? At -190\u00b0C, gases like oxygen and nitrogen turn into liquid. Liquid air is used for freezing and making gases!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Lightning Makes Ozone Smell Fresh",
+        "description": "When lightning strikes, it splits oxygen in the air. The broken oxygen molecules join together to form ozone, which gives the air a sharp, fresh smell after a storm.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Glass Flows Slowly Over Time",
+        "description": "Glass isn\u2019t a solid or a liquid\u2014it\u2019s something in between! Its molecules move so slowly that it seems solid to us, but over a long time, it can flow a tiny bit.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Mars is Rusty Red",
+        "description": "Mars is red because its surface is covered in iron oxide, the same stuff that makes rust and gives blood its color. That\u2019s why it\u2019s called the 'Red Planet.'",
+        "category": "Chemistry"
+    },
+    {
+        "title": "A Chemist Wrote His Address with Elements",
+        "description": "A famous chemist named Glenn Seaborg could write his address using chemical symbols, like Sg for Seaborgium and Cf for Californium. How cool is that?",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Airbags Inflate with Chemistry",
+        "description": "Car airbags are filled with a chemical that creates nitrogen gas instantly during a crash. It happens so fast, it can save lives in a split second!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Gold is a Shiny Element",
+        "description": "Gold is an element on the periodic table. It\u2019s special because it doesn\u2019t rust and has been used for coins and jewelry for thousands of years!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Some Molecules Cost a Fortune",
+        "description": "Scientists created a special molecule called 'buckyballs' that costs $167 million per gram. That\u2019s even more expensive than gold or diamonds!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "DNA Can Resist Fire",
+        "description": "DNA isn\u2019t just the blueprint of life\u2014it\u2019s also a natural fire shield. Its structure can stop flames from spreading, making it super strong!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Your Body\u2019s Hydrogen is Ancient",
+        "description": "Every hydrogen atom in your body was created billions of years ago during the birth of the universe. You\u2019re literally made of stardust!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Rubber Tires are One Big Molecule",
+        "description": "A tire isn\u2019t just a bunch of rubber\u2014it\u2019s one giant molecule made of cross-linked chains of material. That\u2019s what makes tires so tough!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "The Periodic Table is a Map of Elements",
+        "description": "The periodic table organizes all known elements, like a giant chart. Each box tells us about a specific element and its properties!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium, a small part of which is radioactive. Eating one exposes you to a tiny amount of harmless radiation.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Mixing Vinegar and Baking Soda",
+        "description": "When you mix vinegar and baking soda, you get bubbles of carbon dioxide gas. It\u2019s a fun chemical reaction you can try at home!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "The Rarest Element is Astatine",
+        "description": "Astatine is so rare that there\u2019s less than 30 grams of it on Earth! Its name means 'unstable' because it breaks apart quickly.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Cooking is a Chemical Reaction",
+        "description": "When you bake a cake, ingredients like flour, eggs, and sugar undergo chemical reactions to rise and form a delicious treat!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Plasma is the Fourth State of Matter",
+        "description": "Plasma is a super-hot state of matter found in stars, lightning, and neon signs. It\u2019s like a gas but with charged particles.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Snow Comes from Rain",
+        "description": "One inch of rain turns into about 10 inches of snow when it\u2019s cold enough. That\u2019s because snowflakes are mostly made of air!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Comets Smell Awful",
+        "description": "Comets emit a mix of hydrogen sulfide, ammonia, and other chemicals, creating a scent like rotten eggs, urine, and almonds.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Oobleck is Both Solid and Liquid",
+        "description": "Oobleck, made of cornstarch and water, acts like a solid when you hit it but flows like a liquid when you touch it gently.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Liquid is Always Flowing",
+        "description": "Liquids, like water, take the shape of the container they\u2019re in. Their molecules are close but can slide past each other.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Solids Keep Their Shape",
+        "description": "Solids are materials that don\u2019t change shape easily, like a rock or a book. Their molecules are packed tightly together.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Superfluid Helium Climbs Walls",
+        "description": "At super low temperatures, helium becomes a superfluid. It\u2019s so amazing it can flow against gravity and climb up walls!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Salt Water is a Solution",
+        "description": "When you mix salt and water, the salt dissolves, making a solution. The salt is still there, even if you can\u2019t see it!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Litmus Paper Changes Color",
+        "description": "Litmus paper is a special paper used to test if something is an acid or a base. It turns red in acid and blue in base!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "pH Measures Acids and Bases",
+        "description": "The pH scale tells us how strong an acid or base is. Lemon juice is an acid with a low pH, while soap has a high pH.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Ice, Water, and Steam",
+        "description": "Water is amazing because it can be a solid (ice), a liquid (water), or a gas (steam), depending on the temperature!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Diamonds are Pure Carbon",
+        "description": "Diamonds, one of the hardest materials on Earth, are made entirely of the element carbon arranged in a special way.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "The Building Blocks of Everything",
+        "description": "Elements are the basic materials that make up everything around us, from the air we breathe to the pencils we use!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Dry Ice is Frozen Gas",
+        "description": "Dry ice is solid carbon dioxide. It doesn\u2019t melt into liquid but turns directly into gas, creating a smoky effect.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Rust is a Slow Reaction",
+        "description": "When metal gets wet, it reacts with oxygen in the air to make rust. This reaction happens very slowly over time.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Plants Do Chemistry Too!",
+        "description": "Plants use sunlight, water, and carbon dioxide to make food through a chemical reaction called photosynthesis.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Gases Can\u2019t Sit Still",
+        "description": "Gases, like the air around us, don\u2019t have a fixed shape. Their molecules are always moving and spreading out.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Alka-Seltzer Fizz",
+        "description": "When you drop an Alka-Seltzer tablet in water, it reacts to release carbon dioxide bubbles, just like soda!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Sugar Dissolves Faster in Hot Water",
+        "description": "When you add sugar to hot tea, it dissolves faster than in cold water because heat speeds up the molecules.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Fireworks are Chemical Reactions",
+        "description": "The bright colors in fireworks come from chemicals reacting together to release energy as light and sound!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Smells Can Pass Through Liquid",
+        "description": "Smell does protrude through liquid, even though your nose won\u2019t appreciate trying to smell underwater.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Your Stomach Uses Acid",
+        "description": "Your stomach contains hydrochloric acid, which helps break down food into nutrients your body can use.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Vinegar and Baking Soda Volcano",
+        "description": "Mixing vinegar (acid) and baking soda (base) causes a fizzy eruption. It\u2019s a fun science experiment!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Antacids are Bases",
+        "description": "If your stomach feels too acidic, an antacid like Tums can neutralize the acid because it\u2019s a base.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Lemon Juice is an Acid",
+        "description": "Acids taste sour. Lemon juice is a common acid we use in food, and it\u2019s great for cleaning too!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Soap is a Base",
+        "description": "Bases feel slippery and can neutralize acids. Soap is a base that helps remove grease and dirt.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Combustion Creates Fire",
+        "description": "Fire is a chemical reaction called combustion. It needs oxygen, fuel, and heat to keep burning.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Mercury is a Metal That Flows",
+        "description": "Mercury is a unique metal that\u2019s liquid at room temperature. It\u2019s often used in thermometers!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Helium Makes Balloons Float",
+        "description": "Helium is an element lighter than air. That\u2019s why balloons filled with helium float upwards!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Clouds are Tiny Drops of Liquid",
+        "description": "Clouds are made of millions of tiny water droplets or ice crystals floating in the air.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Oxygen is Life\u2019s Favorite Element",
+        "description": "Oxygen is the element we need to breathe. It makes up about 21% of the air around us!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Water\u2019s Secret Recipe",
+        "description": "Water is made of two elements: hydrogen and oxygen. That\u2019s why its formula is H\u2082O!",
+        "category": "Chemistry"
+    },
+    {
+        "title": "Glow Sticks are Chemistry in Action",
+        "description": "When you crack a glow stick, chemicals mix and react to create light in the dark.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "'New Car Smell' Is a Mix of Over 200 Chemicals",
+        "description": "These include the sickly-sweet, toxic hydrocarbons benzene and toluene.",
+        "category": "Chemistry"
+    },
+    {
+        "title": "There Are Three Types of Rocks",
+        "description": "Rocks are classified into three main types: Igneous (formed from cooled lava or magma), Sedimentary (formed by layers of sediment compressed over time), and Metamorphic (formed under heat and pressure).",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Volcanic Ash Can Travel Far",
+        "description": "When a volcano erupts, its ash can reach the atmosphere and travel thousands of kilometers. Ash from Iceland\u2019s Eyjafjallaj\u00f6kull eruption in 2010 disrupted flights across Europe.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Oceans Have Mountains and Waterfalls",
+        "description": "The ocean floor has underwater mountains, valleys, and even waterfalls. The Denmark Strait Cataract is the largest underwater waterfall, dropping water over 3,500 meters!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Earthquake Lights",
+        "description": "Sometimes people report seeing mysterious lights in the sky during earthquakes. These are called earthquake lights, and their cause is still debated by scientists.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "\u2018Sea Level\u2019 Isn\u2019t Actually Level",
+        "description": "The average sea level bulges outward at the equator due to Earth's spin and gravity differences, making it further from the center of the Earth than at the poles.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Save Energy by Turning Off the Lights",
+        "description": "Did you know? Turning off lights when not needed saves energy and helps the planet. It reduces the burning of fuels that produce electricity and lowers pollution.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Trees Are Earth's Air Filters",
+        "description": "Planting trees is like giving the Earth a mask! Trees clean the air by absorbing carbon dioxide and releasing oxygen, making the environment healthy for everyone.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Plastic Bottles Can Be Turned into Clothes",
+        "description": "Recycling plastic bottles can give them a new life as clothes, bags, or even furniture. This helps reduce waste in landfills and keeps our environment cleaner.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Rocks Change Over Time",
+        "description": "Through a process called the rock cycle, rocks can change from one type to another. For example, igneous rocks can turn into sedimentary or metamorphic rocks.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Average Dinosaur Lifespan Was Surprisingly Small",
+        "description": "The average dinosaur lifespan was shorter than expected. For example, a Tyrannosaurus rex reached full size at 16-22 years and lived to around 27-33 years.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Some Volcanoes Are Always Active",
+        "description": "Volcanoes like Mount Stromboli in Italy have been erupting continuously for hundreds of years, earning it the nickname 'Lighthouse of the Mediterranean.'",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Oil Spills Harm Ocean Life",
+        "description": "When oil spills into the sea, it spreads quickly, coating fish and birds with toxic substances. This makes it harder for them to breathe and survive.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Earth Is 4.54 Billion Years Old",
+        "description": "Earth is 4.54 billion years old, based on radiometric dating, making it about half the age of the Milky Way and a third of the age of the Universe.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "We Can Slow Climate Change Together",
+        "description": "Switching to bicycles, planting trees, and using less plastic are small steps that can help fight climate change and make the world a better place.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Earthquakes Tell Us About Earth's Layers",
+        "description": "Scientists learn about the Earth's layers by studying seismic waves from earthquakes, which travel differently through solid and liquid materials.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Air Pollution Can Make It Hard to Breathe",
+        "description": "Polluted air contains harmful particles that can make people cough and feel sick. Planting more trees and using fewer cars can help clean the air.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Tsunami Warning Signs",
+        "description": "If the ocean suddenly recedes (pulls back) from the shore, it\u2019s a sign that a tsunami is coming. People should move to higher ground immediately.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Animals Sense Earthquakes",
+        "description": "Many animals, like dogs and birds, can sense earthquakes before they happen, likely due to their sensitivity to vibrations and pressure changes.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Volcano Rocks Can Float",
+        "description": "Some igneous rocks, like pumice, can float on water because they are full of air bubbles created by escaping gases during volcanic eruptions.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Salt in the Ocean",
+        "description": "If all the salt in the oceans were spread over the land, it would form a layer more than 500 feet thick\u2014about as tall as a 40-story building!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Longest River",
+        "description": "The Nile River in Africa and the Amazon River in South America compete for the title of the longest river, depending on how they\u2019re measured.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Plastic in Oceans Harms Animals",
+        "description": "Every year, millions of sea animals mistake plastic waste for food. This can harm their health and upset the balance of life in the oceans.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Earth's Blanket Is Getting Too Warm",
+        "description": "When too much carbon dioxide gets trapped in the air, it warms the Earth like a heavy blanket. This causes ice to melt and oceans to rise.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Dinosaur Poop Fossils Are Gigantic",
+        "description": "The largest piece of fossilized dinosaur poop, believed to be from a T. rex, is over 30cm long and has a volume of more than two liters.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Mount Everest Isn't the Tallest Mountain",
+        "description": "Hawaii's Mauna Kea and Mauna Loa are taller than Mount Everest when measured from base to summit, including their underwater portions.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The T. rex Likely Had Feathers",
+        "description": "Scientists in China discovered Early Cretaceous period tyrannosaur skeletons with feathers, suggesting T. rex might have had them too.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Noise Pollution Affects More Than Ears",
+        "description": "Too much noise, like loud music or honking cars, doesn\u2019t just hurt our ears\u2014it can stress animals and disturb their natural behavior.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "One Aluminum Can Saves Hours of Power",
+        "description": "Recycling just one aluminum can saves enough energy to power a TV for three hours. Imagine how much energy we save by recycling more!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "California\u2019s Famous Fault",
+        "description": "The San Andreas Fault in California is one of the most well-known fault lines and is responsible for many earthquakes in the region.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Largest Volcano",
+        "description": "The Mauna Loa volcano in Hawaii is the largest on Earth. If measured from its base under the ocean, it\u2019s taller than Mount Everest!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Earthquakes Can Happen Anywhere",
+        "description": "While most earthquakes occur near tectonic plate boundaries, they can also happen far from them due to stress in the Earth's crust.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Word 'Tsunami'",
+        "description": "The term 'tsunami' comes from Japanese and means 'harbor wave,' because they often cause destruction when they reach coastal areas.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Hotter Weather Changes Animal Homes",
+        "description": "Many animals, like polar bears, lose their homes when ice melts due to global warming. Protecting nature helps save their habitats.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Climate Change Can Be Slowed Down",
+        "description": "Using public transport, planting trees, and saving electricity are simple ways to reduce greenhouse gases and fight climate change.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Biggest Tsunami Ever Recorded",
+        "description": "The tallest tsunami wave was 524 meters (1,720 feet) high and occurred in Lituya Bay, Alaska, in 1958 due to a massive landslide.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "We Live on a Thin Shell",
+        "description": "The Earth's crust is very thin compared to its size. If the Earth were an apple, the crust would be as thin as the apple's skin!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Largest Living Structure",
+        "description": "The Great Barrier Reef, located off the coast of Australia, is the largest living structure on Earth and can be seen from space.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Fossils Are Found in Rocks",
+        "description": "Most fossils are found in sedimentary rocks because they form in layers, trapping and preserving remains of plants and animals.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Quartz Is in Your Watch",
+        "description": "The mineral quartz is used in watches and clocks because it vibrates at a precise frequency when electricity passes through it.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Icebergs Are Disappearing Fast",
+        "description": "Because of global warming, large icebergs are melting into the sea. This causes sea levels to rise and threatens coastal areas.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Sun Powers More Than Plants",
+        "description": "Solar panels can turn sunlight into electricity to light up homes and schools. Using solar energy is clean and never runs out!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Biofuels Come from Plants",
+        "description": "Crops like sugarcane and corn can be turned into fuels. These fuels are renewable and cause less pollution than regular fuels.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Oldest Rocks on Earth",
+        "description": "The oldest rocks ever discovered are about 4 billion years old and were found in Canada. They are called the Acasta Gneiss.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Magnetic Field Comes from the Core",
+        "description": "The Earth's magnetic field is generated by the movement of liquid iron in the outer core, which acts like a giant dynamo.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Deepest Point",
+        "description": "The Mariana Trench in the Pacific Ocean is the deepest place on Earth, reaching a depth of about 11 kilometers (7 miles).",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Water Makes Electricity Too",
+        "description": "Dams use the energy of flowing water to produce electricity. It\u2019s one of the oldest and most eco-friendly energy sources.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Volcanoes on Other Planets",
+        "description": "The largest volcano in the solar system is Olympus Mons on Mars. It\u2019s nearly three times the height of Mount Everest!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Underwater Volcanoes",
+        "description": "Most volcanoes are underwater! These submarine volcanoes are found along mid-ocean ridges where tectonic plates meet.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Windmills Are Giant Power Machines",
+        "description": "Wind turbines catch the wind and turn it into electricity. Wind power is a clean and green way to keep the lights on.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Reusing Water Helps the Planet",
+        "description": "Water used for washing vegetables can be reused to water plants. Small actions like this save gallons of water daily.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Geothermal Energy Comes from the Earth's Heat",
+        "description": "Did you know? The Earth\u2019s underground heat can produce electricity. It\u2019s like using the planet\u2019s own power generator!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Wind Turbines Kill Birds",
+        "description": "In the UK, wind turbines kill 10,000 to 100,000 birds annually. Painting one blade black reduces bird deaths by 70%.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Hot Weather Affects Crops",
+        "description": "Warmer temperatures make it harder for plants like wheat and rice to grow, which can lead to less food for everyone.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Paper Recycling Saves Trees",
+        "description": "Every ton of recycled paper saves about 17 trees. By recycling, we protect forests and the animals that live there.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Mantle Is Super Hot",
+        "description": "The Earth's mantle, located below the crust, can reach temperatures of 4,000\u00b0C (7,200\u00b0F)\u2014hot enough to melt rocks!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Pollution Can Change Weather",
+        "description": "Air pollution doesn\u2019t just harm health\u2014it can also change weather patterns, leading to unusual rains or heatwaves.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Tidal Waves Can Light Up Cities",
+        "description": "The movement of ocean tides is so strong that it can be used to generate electricity. This is called tidal energy.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Triggered by Earthquakes",
+        "description": "Most tsunamis are caused by underwater earthquakes that shift the ocean floor, displacing large amounts of water.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Mariana Trench Is Very Deep",
+        "description": "The deepest part of the ocean, the Mariana Trench, is about 36,200 feet deep, deeper than Mount Everest is tall!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Diamonds Are the Hardest Mineral",
+        "description": "On the Mohs scale of hardness, diamond is rated a perfect 10, making it the hardest natural substance on Earth.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Core Is a Ball of Metal",
+        "description": "The Earth's core is made mostly of iron and nickel. The inner core is solid, while the outer core is liquid.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Littering Causes Floods",
+        "description": "Trash blocking drains during rains can cause floods. Keeping our surroundings clean prevents these problems.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Earth's Magnetic Poles Are Moving",
+        "description": "The magnetic North Pole has been shifting faster in recent years, moving 55 kilometers per year as of 1990.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Mars and Earth",
+        "description": "Despite being farther from the Sun, Mars' equatorial regions can match Earth's summer temperatures at 20\u00b0C.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "There Are Over 5,000 Minerals",
+        "description": "Scientists have identified more than 5,000 types of minerals on Earth, each with its own unique properties.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "There Are Different Types of Volcanoes",
+        "description": "Volcanoes come in many shapes and sizes, including shield volcanoes, composite volcanoes, and cinder cones.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Coldest Place on Earth",
+        "description": "The East Antarctic Plateau reaches temperatures as low as -135.8\u00b0F, making it the coldest recorded spot.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Millions of Earthquakes Every Year",
+        "description": "The Earth experiences about 500,000 earthquakes each year, but only a few are strong enough to be felt.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Not Always Giant Waves",
+        "description": "Tsunamis aren\u2019t just one big wave. They\u2019re a series of waves, and the largest one might not come first.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Fast-Moving Waves",
+        "description": "Tsunami waves can travel as fast as 800 km/h (500 mph) in the open ocean\u2014almost as fast as a jet plane!",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Oceans Cover Most of the Earth",
+        "description": "Over 70% of the Earth's surface is covered by oceans, making them the largest ecosystem on the planet.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Global Warming Impact",
+        "description": "The last decade has been the hottest in 125,000 years, with oceans and ecosystems bearing the brunt.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Earth's Crust Is Like a Puzzle",
+        "description": "The Earth's crust is broken into pieces called tectonic plates, which float on the molten mantle.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Air Pollution Paradox",
+        "description": "While harmful, air pollution particles temporarily offset some warming by reflecting sunlight.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Oceans Produce Most of Our Oxygen",
+        "description": "Tiny plants called phytoplankton in the ocean produce about 50-70% of the oxygen we breathe.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Strongest Earthquake Ever Recorded",
+        "description": "The most powerful earthquake occurred in Chile in 1960, measuring 9.5 on the Richter scale.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Lightning Strikes Galore",
+        "description": "Lightning strikes Earth about 40 million times annually, averaging 76 strikes per minute.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Hurricane Spin",
+        "description": "Hurricanes rotate counterclockwise in the Northern Hemisphere due to the Coriolis effect.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Salt Is a Mineral",
+        "description": "The salt we eat, called halite, is actually a mineral. It forms when seawater evaporates.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Ocean Heat",
+        "description": "Oceans absorb 90% of heat generated by human activity, buffering global warming effects.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Ice Melt",
+        "description": "Earth loses 1.2 trillion tons of ice annually, significantly impacting sea levels.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Polar Bear Struggles",
+        "description": "Melting sea ice threatens polar bear populations by reducing their hunting time.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Gold Can Be Eaten (in Tiny Amounts!)",
+        "description": "Pure gold is non-toxic, and tiny amounts are used in luxury foods and drinks.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Windiest State",
+        "description": "South Dakota boasts the highest average wind speeds in the U.S. at 21.3 mph.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Rising CO2",
+        "description": "Atmospheric CO2 levels, now at 420 ppm, are the highest in 2 million years.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Raining Fish",
+        "description": "Tornadoes and storms can lift and drop small animals like fish and frogs.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Fire Whirls",
+        "description": "Wildfires and intense heat can create towering, spinning columns of fire.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Diamond Rain",
+        "description": "On Jupiter and Saturn, intense pressure might turn methane into diamonds.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Rain Shapes",
+        "description": "Raindrops aren\u2019t teardrop-shaped but resemble spheres or hamburger buns.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Fog is a Cloud",
+        "description": "Fog is simply a low-lying cloud in contact with the Earth's surface.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Hottest Temperature",
+        "description": "Furnace Creek Ranch, California, recorded a scorching 134\u00b0F in 1913.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "The Wettest Place",
+        "description": "Mawsynram, India, receives an average annual rainfall of 467 inches.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "World's Longest Lightning Bolt",
+        "description": "A lightning bolt spanned 477.8 miles across U.S. states in 2020.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Thundersnow",
+        "description": "This rare event combines snowstorms with thunder and lightning.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Cloud Composition",
+        "description": "Clouds are a mix of air, water droplets, and ice\u2014not just gas.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Red Rain Phenomenon",
+        "description": "Dust storms can mix with rain clouds, creating eerie red rain.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Jupiter\u2019s Giant Storm",
+        "description": "The planet has a centuries-old hurricane larger than Earth.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Cloud Weight",
+        "description": "A typical cumulonimbus cloud can weigh millions of tons.",
+        "category": "Earth Science"
+    },
+    {
+        "title": "Giraffes Hum to Communicate with Each Other",
+        "description": "It\u2019s thought that the low-frequency humming could be a form of \u2018contact call\u2019 between individuals who have been separated from their herd, helping them to find each other in the dark. Some researchers think they sleep talk too.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Smell of Rain Comes From Petrichor",
+        "description": "That fresh smell after rain has a name\u2014petrichor. It\u2019s caused by oils released by plants and soil bacteria when raindrops hit the ground. This comforting scent is why so many people love rainy days.",
+        "category": "Biology"
+    },
+    {
+        "title": "You Could Sweat When You're Anxious to Alert Others",
+        "description": "Sweating when anxious could have evolved as a way to alert others to potential danger. The chemicals released in sweat can activate regions of the brain that process social and emotional cues.",
+        "category": "Biology"
+    },
+    {
+        "title": "Insects Can Fly Up to 3.25km Above Sea Level",
+        "description": "Insects can fly up to 3.25km above sea level. Alpine bumblebees have been found living this high, and they can fly in lab conditions that replicate the air density and oxygen levels at 9km.",
+        "category": "Biology"
+    },
+    {
+        "title": "Identical Twins Have Unique Fingerprints",
+        "description": "Despite their genetic similarities, identical twins have different fingerprints due to environmental factors during womb development, such as umbilical cord length and position.",
+        "category": "Biology"
+    },
+    {
+        "title": "Giraffes Are Lightning Magnets",
+        "description": "Giraffes are 30 times more likely to be struck by lightning than humans. Between 1996 and 2010, five documented giraffe fatalities occurred, a rate far higher than for humans.",
+        "category": "Biology"
+    },
+    {
+        "title": "Plants Came Before Seeds",
+        "description": "According to the fossil record, early plants resembled moss and reproduced with single-celled spores. Multicellular seeds didn\u2019t evolve for another 150 million years.",
+        "category": "Biology"
+    },
+    {
+        "title": "Your Brain Eats Itself",
+        "description": "A process called phagocytosis involves brain cells consuming smaller cells or molecules. This self-cleaning mechanism is crucial for maintaining brain health.",
+        "category": "Biology"
+    },
+    {
+        "title": "Glass Sponges Can Live for 15,000 Years",
+        "description": "This makes them one of the longest-living organisms on Earth. The immortal jellyfish, however, could theoretically live forever (but scientists aren\u2019t sure).",
+        "category": "Biology"
+    },
+    {
+        "title": "Animals Can Be Allergic to Humans",
+        "description": "Animals can be allergic to human dander, similar to how humans are allergic to pet fur. This can cause breathing issues and skin irritation in some cases.",
+        "category": "Biology"
+    },
+    {
+        "title": "All Mammals Get Goosebumps",
+        "description": "Goosebumps occur in all mammals as a response to cold or emotional stimuli. The small muscles around hair follicles contract, creating bumps on the skin.",
+        "category": "Biology"
+    },
+    {
+        "title": "Dogs Tilt Their Heads When You Speak to Them to Better Pinpoint Familiar Words",
+        "description": "Dogs tilt their heads to better pinpoint familiar words and to gauge the tone of your voice, which helps them understand what you're saying.",
+        "category": "Biology"
+    },
+    {
+        "title": "A Chicken Lived 18 Months Without a Head",
+        "description": "Mike the chicken survived for 18 months after a botched beheading in the 1940s, thanks to his jugular vein and brainstem remaining intact.",
+        "category": "Biology"
+    },
+    {
+        "title": "Some Animals Display Autistic-Like Traits",
+        "description": "Certain animals exhibit traits that are similar to those seen in humans with autism, such as repetitive behaviors and social difficulties.",
+        "category": "Biology"
+    },
+    {
+        "title": "Beavers Don\u2019t Actually Live in Dams",
+        "description": "Beavers build lodges behind dams but don\u2019t live in the dams themselves. The lodges are constructed within deep pools of water for safety.",
+        "category": "Biology"
+    },
+    {
+        "title": "You Can Smell Ants",
+        "description": "Ants release strong-smelling chemicals when they\u2019re threatened or squished, with some species emitting a chocolatey or lemony odor.",
+        "category": "Biology"
+    },
+    {
+        "title": "Animals Perceive Time Differently",
+        "description": "Smaller animals like salamanders experience time more slowly than humans, as their brains process information at a faster rate.",
+        "category": "Biology"
+    },
+    {
+        "title": "Our Dead Cells Are Eaten by Other Cells in Our Body",
+        "description": "When cells inside your body die, they\u2019re scavenged by phagocytes \u2013 white blood cells whose job it is to digest other cells.",
+        "category": "Biology"
+    },
+    {
+        "title": "Octopuses Don't Have Tentacles",
+        "description": "Octopuses have eight arms, not tentacles. Tentacles, seen in squids, have suckers only at their ends, unlike octopus arms.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Average Human Body Contains Enough Carbon to Fill 9,000 \u2018Lead\u2019 Pencils",
+        "description": "The average human body contains enough carbon to fill about 9,000 pencils, with carbon making up roughly 18% of body mass.",
+        "category": "Biology"
+    },
+    {
+        "title": "Platypuses Sweat Milk",
+        "description": "Platypuses sweat milk as they don\u2019t have teats. Milk appears as sweat on their bodies, which helps them feed their young.",
+        "category": "Biology"
+    },
+    {
+        "title": "Flamingoes Aren\u2019t Born Pink",
+        "description": "Flamingos are born with gray or white feathers, and only turn pink after consuming a diet rich in brine shrimp and algae.",
+        "category": "Biology"
+    },
+    {
+        "title": "Earth's Bacteria Could Stretch Light-Years",
+        "description": "If stacked, Earth's bacteria would form a tower 10 billion light-years high, wrapping around the Milky Way 20,000 times.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Biggest Butterfly in the World Has a 31cm Wingspan",
+        "description": "The Queen Alexandra's Birdwing butterfly, found in Papua New Guinea, is the largest butterfly, with a wingspan of 31cm.",
+        "category": "Biology"
+    },
+    {
+        "title": "Not Only Plants Photosynthesise",
+        "description": "Algae and other organisms, including sea slugs and pea aphids, use chlorophyll to photosynthesise like plants.",
+        "category": "Biology"
+    },
+    {
+        "title": "Most Ginger Cats Are Male",
+        "description": "The ginger gene is on the X chromosome, so males only need one copy to be ginger, while females need two.",
+        "category": "Biology"
+    },
+    {
+        "title": "Hippos Can\u2019t Swim",
+        "description": "Hippos perform a slow-motion gallop along riverbeds instead of swimming, thanks to their dense bones.",
+        "category": "Biology"
+    },
+    {
+        "title": "Bacteria on Your Skin Cause Itches",
+        "description": "Staphylococcus aureus releases chemicals that activate nerve proteins, signaling your brain to itch.",
+        "category": "Biology"
+    },
+    {
+        "title": "Plants Make Most of Earth\u2019s Oxygen",
+        "description": "More than half of the oxygen we breathe comes from marine plants like algae, plankton, and seaweed.",
+        "category": "Biology"
+    },
+    {
+        "title": "Fish Form Orderly Queues in Emergencies",
+        "description": "Neon tetra fish queue during narrow space evacuations to avoid collisions, respecting social rules.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Stomach Can Dissolve Razor Blades",
+        "description": "The acid in your stomach is so strong that it can dissolve small metal objects like razor blades.",
+        "category": "Biology"
+    },
+    {
+        "title": "Pine Trees Can Tell If It's About to Rain",
+        "description": "If a pine cone is closed, that\u2019s because the air is humid, which can indicate rain is on its way.",
+        "category": "Biology"
+    },
+    {
+        "title": "Bats Aren\u2019t Blind",
+        "description": "Despite the famous idiom, bats can indeed see, but they still use echolocation to find prey.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Oldest Dog Lived 29.5 Years",
+        "description": "Bluey, an Australian cattle dog, holds the record for the oldest dog, living to 29.5 years.",
+        "category": "Biology"
+    },
+    {
+        "title": "There Are More Bacterial Cells in Your Body Than Human Cells",
+        "description": "56% of cells in the human body are bacterial, though by weight, humans are 99.7% human.",
+        "category": "Biology"
+    },
+    {
+        "title": "Sharks Are Older Than Dinosaurs",
+        "description": "Sharks have been around for over 400 million years, making them older than dinosaurs.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Oldest Cat Lived 38 Years",
+        "description": "Creme Puff, a cat from Texas, lived to an astonishing age of 38 years and three days.",
+        "category": "Biology"
+    },
+    {
+        "title": "Ants Don\u2019t Have Lungs",
+        "description": "Ants breathe through spiracles, nine or ten tiny openings, depending on the species.",
+        "category": "Biology"
+    },
+    {
+        "title": "Snails Have Teeth",
+        "description": "Snails possess between 1,000 and 12,000 tiny teeth across their file-like tongues.",
+        "category": "Biology"
+    },
+    {
+        "title": "Starfish Don\u2019t Have Bodies",
+        "description": "Starfish and other echinoderms have bodies classified entirely as heads.",
+        "category": "Biology"
+    },
+    {
+        "title": "The Sun: Our Closest Star",
+        "description": "The Sun is the nearest star to Earth, located about 150 million kilometers away. It\u2019s a yellow dwarf star, producing energy by turning hydrogen into helium. After 4.5 billion years, it\u2019s still shining and will continue for billions of years more before growing into a giant and swallowing nearby planets, including Earth.",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Bigger and Brighter Than the Sun",
+        "description": "Every star you see in the night sky is larger and brighter than our Sun. Out of thousands of stars visible to the naked eye, most are much more luminous and bigger. Even the closest star system, Alpha Centauri, shines brighter than the Sun.",
+        "category": "Universe"
+    },
+    {
+        "title": "Can You See a Million Stars?",
+        "description": "You can\u2019t see a million stars in the sky, no matter how dark the night is. On the best nights, far away from city lights, you might see up to 2,500 stars. So when someone says they\u2019ve seen a million stars, it\u2019s just a figure of speech!",
+        "category": "Universe"
+    },
+    {
+        "title": "Mercury Has Ice Despite Being Close to the Sun",
+        "description": "Mercury, the hottest planet near the Sun, surprisingly has ice in craters that never see sunlight. Scientists think comets may have brought this ice. NASA even found organic materials there, but Mercury is too hot and airless for life.",
+        "category": "Universe"
+    },
+    {
+        "title": "Jupiter Protects Us by Catching Comets",
+        "description": "Jupiter, the largest planet, often pulls in or diverts comets and asteroids with its strong gravity. This might have protected Earth from many impacts, as seen in the comet Shoemaker-Levy 9, which crashed into Jupiter in 1994.",
+        "category": "Universe"
+    },
+    {
+        "title": "Big Stars Burn Fast and Die Young",
+        "description": "The most massive stars, like Eta Carinae, burn their fuel quickly and live for only a few million years. They end their lives in spectacular explosions called supernovae, becoming some of the brightest objects in the sky.",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Are Made of the Same Stuff",
+        "description": "Stars are formed from clouds of hydrogen and helium gas. These gases were created during the Big Bang. Over time, stars change hydrogen into helium in their cores. This process gives stars their energy and light.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Sun is a Dwarf Star",
+        "description": "Did you know our Sun is a 'dwarf' star? Most stars, like our Sun, are in their stable phase of life and are called dwarf stars. Giant and supergiant stars are much bigger and are in their final stages of life.",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Are Always Balancing Forces",
+        "description": "A star\u2019s gravity pulls inward while energy from its core pushes outward. This balance keeps the star stable. When this balance changes, stars either expand into giants or collapse into smaller, denser stars.",
+        "category": "Universe"
+    },
+    {
+        "title": "It Rains Methane on Saturn\u2019s Largest Moon",
+        "description": "Titan is the only moon in our Solar System with a dense atmosphere and the only body except Earth with liquid rivers, lakes, and seas fed by rainfall. This rainfall isn\u2019t water, though; it's liquid methane.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Universe Has Billions of Stars",
+        "description": "Our galaxy, the Milky Way, has over 200 billion stars. There are hundreds of billions of galaxies in the universe, meaning there could be an unimaginable number of stars\u2014more than 2 followed by 23 zeros!",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Are Really, Really Far Away",
+        "description": "The closest star to Earth, Proxima Centauri, is 4.2 light-years away. That\u2019s so far that even the fastest spacecraft would take over 70,000 years to reach it. Exploring stars is truly a cosmic challenge!",
+        "category": "Universe"
+    },
+    {
+        "title": "Black Holes Don\u2019t Suck!",
+        "description": "Black holes don\u2019t 'suck' things like a vacuum cleaner. Instead, their strong gravity pulls in objects nearby. It\u2019s more like a fish being reeled in with a fishing rod than being sucked into a whirlpool.",
+        "category": "Universe"
+    },
+    {
+        "title": "Uranus Has Surprising Storms",
+        "description": "Once thought to be calm, Uranus has active storms in its southern hemisphere. Scientists noticed more activity when the planet moved closer to the Sun in 2007, but they still don\u2019t fully understand why.",
+        "category": "Universe"
+    },
+    {
+        "title": "Mars Is as Cold as the South Pole",
+        "description": "Mars is a freezing planet with temperatures averaging -60\u00b0C, similar to the South Pole on Earth. Scientists are exploring ways to warm it, like using giant mirrors to reflect sunlight onto its surface.",
+        "category": "Universe"
+    },
+    {
+        "title": "Star Colors Reveal Their Temperatures",
+        "description": "Stars come in many colors, from cool red to very hot blue. The color tells us how hot the star is\u2014red stars are cooler, and blue stars are the hottest. A star\u2019s mass affects its temperature and color.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Largest Stars Are Enormous",
+        "description": "The biggest stars, like Betelgeuse and VY Canis Majoris, are massive and can grow so large they\u2019d reach Saturn\u2019s orbit. These stars are called red supergiants and make the Sun look tiny by comparison.",
+        "category": "Universe"
+    },
+    {
+        "title": "Neptune Has Winds Faster Than Sound",
+        "description": "Neptune experiences incredibly strong winds that blow at over 1,100 miles per hour, faster than the speed of sound on Earth. Scientists are puzzled by how such strong winds occur so far from the Sun.",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Often Come in Groups",
+        "description": "Many stars have companions, forming pairs called binary stars. Some systems even have three or more stars orbiting each other. Imagine the amazing sunrises you\u2019d see on planets with multiple stars!",
+        "category": "Universe"
+    },
+    {
+        "title": "Earth\u2019s Magnetic Field Creates Stunning Auroras",
+        "description": "Earth\u2019s magnetic field protects us from harmful solar radiation. When charged particles from the Sun hit our atmosphere, they create beautiful light shows called auroras, like the Northern Lights.",
+        "category": "Universe"
+    },
+    {
+        "title": "How Far Can You See?",
+        "description": "On a clear night, you can see stars like Deneb, which is 19 quadrillion miles away. Even galaxies like Andromeda and Triangulum, billions of miles away, can sometimes be seen with the naked eye.",
+        "category": "Universe"
+    },
+    {
+        "title": "Mars Once Had a Thick Atmosphere",
+        "description": "Long ago, Mars had a thicker atmosphere and more water, as seen in dried-up riverbeds. Over time, solar energy may have pushed away lighter molecules, leaving its atmosphere thin today.",
+        "category": "Universe"
+    },
+    {
+        "title": "Most Stars Are Red Dwarfs",
+        "description": "Red dwarfs are the smallest and most common stars in the universe. They are cooler, dimmer, and live much longer than larger stars. Some red dwarfs can burn for trillions of years!",
+        "category": "Universe"
+    },
+    {
+        "title": "You Can\u2019t Stand on Uranus",
+        "description": "Uranus, like other gas planets, doesn\u2019t have a solid surface. It\u2019s made mostly of hydrogen and helium gas. Plus, its clouds contain hydrogen sulfide, which smells like rotten eggs!",
+        "category": "Universe"
+    },
+    {
+        "title": "Flying Around the Sun Takes 206 Days",
+        "description": "If you tried to fly around the Sun, it would take you 206 days. That\u2019s much longer than a flight around Earth. The Sun is huge and makes up almost all the mass of the Solar System.",
+        "category": "Universe"
+    },
+    {
+        "title": "A Rainbow on Venus Is Called a Glory",
+        "description": "On Venus, a rainbow-like phenomenon called a glory occurs due to light interference within droplets, unlike the dispersion and refraction of light that creates a regular rainbow.",
+        "category": "Universe"
+    },
+    {
+        "title": "Pluto Is One of Six Dwarf Planets",
+        "description": "Pluto became a dwarf planet in 2006, but it\u2019s not alone. There are five others: Ceres, Makemake, Haumea, Eris, and a new one called \u2018The Goblin.\u2019 Some of these even have moons!",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars as Black Bodies",
+        "description": "Stars absorb all the light and energy that hits them, making them perfect 'black bodies.' But unlike black holes, stars also emit bright light, shining brilliantly in the sky.",
+        "category": "Universe"
+    },
+    {
+        "title": "Is Our Sun a Green Star?",
+        "description": "Technically, our Sun is a 'green-blue' star because its light peaks in that range. However, our eyes see it as white or yellow due to how we perceive all the colors it emits.",
+        "category": "Universe"
+    },
+    {
+        "title": "Why Do Stars Twinkle?",
+        "description": "Stars don\u2019t actually twinkle; their light gets bent by Earth\u2019s atmosphere, making them appear to flicker. If you were in space, stars would shine steadily without twinkling.",
+        "category": "Universe"
+    },
+    {
+        "title": "Saturn\u2019s Rings Are Made of Ice",
+        "description": "Saturn\u2019s beautiful rings are mostly frozen water. Other gas planets also have rings, but Saturn\u2019s are the most spectacular and were the first to be seen through telescopes.",
+        "category": "Universe"
+    },
+    {
+        "title": "Venus Has No Moons, and It\u2019s a Mystery",
+        "description": "Unlike other planets with many moons, Venus has none. Scientists aren\u2019t sure why, but some think it might have had one in the past that disappeared due to unknown reasons.",
+        "category": "Universe"
+    },
+    {
+        "title": "Jupiter\u2019s Biggest Moon Has More Water Than Earth",
+        "description": "Ganymede, Jupiter\u2019s largest moon, has a salty ocean beneath its surface. This moon is bigger than Mercury and would be a planet if it orbited the Sun instead of Jupiter.",
+        "category": "Universe"
+    },
+    {
+        "title": "Saturn\u2019s Rings Might Be Very Old",
+        "description": "Saturn\u2019s icy rings may have formed from a moon that broke apart or have existed for billions of years. Scientists are still unsure how old these spectacular rings are.",
+        "category": "Universe"
+    },
+    {
+        "title": "Red Stars Are Cool, Blue Stars Are Hot",
+        "description": "Unlike what we think, red stars are the coolest, and blue stars are the hottest. Heated objects change color as they get hotter, and stars follow the same rule!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Solar System Might Not End With Pluto",
+        "description": "Beyond Pluto is the Oort Cloud, a faraway bubble of icy debris. Scientists think it\u2019s the Solar System\u2019s edge, but it\u2019s so far away that we haven\u2019t seen it yet.",
+        "category": "Universe"
+    },
+    {
+        "title": "Millions Watched the First Moonwalk on TV",
+        "description": "Over 600 million people watched Neil Armstrong and Buzz Aldrin take their first steps on the Moon in 1969, making it one of the most-watched events in history.",
+        "category": "Universe"
+    },
+    {
+        "title": "Why Are There No Green Stars?",
+        "description": "Stars don\u2019t look green to us, even though they emit green light. Our eyes blend all the colors together, making stars appear white or yellow, but never green.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Moon Is Shrinking",
+        "description": "The Moon is shrinking slowly, with its radius decreasing by about 50 meters over millions of years, likely due to seismic activity known as moonquakes.",
+        "category": "Universe"
+    },
+    {
+        "title": "A Day Is Longer Than a Year on Venus",
+        "description": "Venus spins so slowly that one full rotation takes 243 Earth days. But it orbits the Sun in only 225 days, making a day on Venus longer than its year!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Solar System Is 4.5 Billion Years Old",
+        "description": "Our Solar System is incredibly old. If its age were compressed into a year, humans would have appeared on Earth just moments before New Year\u2019s Eve!",
+        "category": "Universe"
+    },
+    {
+        "title": "Learning Russian is Part of Astronaut Training",
+        "description": "Astronauts must learn Russian to work on the International Space Station, where they read manuals and communicate in both English and Russian.",
+        "category": "Universe"
+    },
+    {
+        "title": "There\u2019s a Planet Mostly Made From Diamond",
+        "description": "55 Cancri e, a planet mostly made of diamond, is about twice the size of Earth and located 40 light-years away in the Cancer constellation.",
+        "category": "Universe"
+    },
+    {
+        "title": "Astronauts Grow Taller in Space",
+        "description": "Microgravity makes astronauts grow up to 3% taller in space. However, their height returns to normal a few months after returning to Earth.",
+        "category": "Universe"
+    },
+    {
+        "title": "Mercury Orbits the Sun in 88 Days",
+        "description": "Mercury, the closest planet to the Sun, completes one trip around it in just 88 Earth days. That\u2019s why a year on Mercury is so short!",
+        "category": "Universe"
+    },
+    {
+        "title": "You Can See Stars as They Were 4,000 Years Ago with the Naked Eye",
+        "description": "All the stars we can see lie within about 4,000 light-years of us, meaning at most you're seeing stars as they were 4,000 years ago.",
+        "category": "Universe"
+    },
+    {
+        "title": "A Family Photo Left on the Moon",
+        "description": "Astronaut Charles Duke left a photo of his family on the Moon during the Apollo 16 mission in 1972. The photo is still there today!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Universe's Color Is 'Cosmic Latte'",
+        "description": "Astronomers discovered that the combined light of all galaxies in the universe averages to a beige shade, termed 'Cosmic Latte.'",
+        "category": "Universe"
+    },
+    {
+        "title": "Astronaut Means 'Star Sailor'",
+        "description": "The word 'astronaut' comes from the Greek words 'astron nautes,' which means 'star sailor,' a perfect name for space travelers!",
+        "category": "Universe"
+    },
+    {
+        "title": "Mercury, Not Venus, Is the Closest Planet to Earth on Average",
+        "description": "Mercury is actually the closest planet to Earth on average, with an average distance of 1.04 AU, compared to Venus at 1.14 AU.",
+        "category": "Universe"
+    },
+    {
+        "title": "Guion Bluford: The First African American in Space",
+        "description": "Guion Bluford made history in 1983 as the first African American astronaut, flying on the Challenger as a mission specialist.",
+        "category": "Universe"
+    },
+    {
+        "title": "Countless Stars in the Universe",
+        "description": "There are more stars in the universe than grains of sand on all the beaches on Earth \u2013 that\u2019s at least a billion trillion!",
+        "category": "Universe"
+    },
+    {
+        "title": "Astronauts Wear Space Diapers",
+        "description": "Astronauts wear 'Maximum Absorbency Garments' (special diapers) during long missions when they can\u2019t take bathroom breaks.",
+        "category": "Universe"
+    },
+    {
+        "title": "Earth\u2019s Magnetic Field and Auroras",
+        "description": "The magnetic field protects us from the Sun\u2019s harmful rays. Auroras are colorful lights caused by these solar particles.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Moon and Ocean Waves",
+        "description": "The Moon, along with the Sun, causes the tides and waves in our oceans. It moves billions of tonnes of water every day!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Sun: Our Closest Star",
+        "description": "The Sun is a G2 yellow dwarf star. It\u2019s been shining for 4.5 billion years and will keep glowing for another 7 billion!",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Are Far Away",
+        "description": "The closest star to Earth, Proxima Centauri, is 4.2 light-years away. Traveling there would take over 70,000 years!",
+        "category": "Universe"
+    },
+    {
+        "title": "Our Solar System Has a 'Wall'",
+        "description": "The heliopause, where solar wind stops pushing against interstellar wind, marks the boundary of our solar system.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Balance Inside Stars",
+        "description": "Stars stay in balance because of the energy from their nuclear fusion pushing outward while gravity pulls inward.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Mystery of Black Holes",
+        "description": "Black holes are created when big stars explode. Their pull is so strong that nothing can escape, not even light!",
+        "category": "Universe"
+    },
+    {
+        "title": "Short Lives of Big Stars",
+        "description": "Big stars burn their fuel fast and live for only a few million years, unlike small stars that last much longer.",
+        "category": "Universe"
+    },
+    {
+        "title": "A Day on Mercury",
+        "description": "On Mercury, a single day lasts longer than a year! A year there is 88 Earth days, but a day is 176 Earth days.",
+        "category": "Universe"
+    },
+    {
+        "title": "Billions of Stars and Galaxies",
+        "description": "The Milky Way has 200-400 billion stars. With billions of galaxies, the total number of stars is unimaginable!",
+        "category": "Universe"
+    },
+    {
+        "title": "Red Dwarfs: The Common Stars",
+        "description": "Most stars in the universe are red dwarfs, small and cool stars that burn fuel slowly for trillions of years.",
+        "category": "Universe"
+    },
+    {
+        "title": "Ice on Hot Mercury",
+        "description": "Even on Mercury, the closest planet to the Sun, ice can be found in deep craters that never get sunlight.",
+        "category": "Universe"
+    },
+    {
+        "title": "Sally Ride: A Pioneer for Women in Space",
+        "description": "Sally Ride became the first American woman in space and also the youngest American astronaut ever to fly!",
+        "category": "Universe"
+    },
+    {
+        "title": "Exercise Keeps Astronauts Healthy in Space",
+        "description": "In space, astronauts exercise for two hours a day to prevent bone and muscle loss caused by microgravity.",
+        "category": "Universe"
+    },
+    {
+        "title": "NASA Faked Part of the Moon Landing",
+        "description": "While the lunar landing was real, NASA's quarantine protocol for returning astronauts was mostly staged.",
+        "category": "Universe"
+    },
+    {
+        "title": "Eclipses and a Frightened Emperor",
+        "description": "In 840 AD, Emperor Louis of Bavaria died of fright during a solar eclipse when the Moon blocked the Sun.",
+        "category": "Universe"
+    },
+    {
+        "title": "Alan Shepard Played Golf on the Moon",
+        "description": "Astronaut Alan Shepard became famous for hitting a golf ball on the Moon during the Apollo 14 mission.",
+        "category": "Universe"
+    },
+    {
+        "title": "An Expanding Universe",
+        "description": "The universe has no center and keeps growing every second. It\u2019s so huge, no one can reach its edge!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Age of Earth and the Universe",
+        "description": "Earth is about 4.5 billion years old, but the universe is even older \u2013 it\u2019s 13.5 billion years old!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Mystery of Saturn\u2019s Rings",
+        "description": "Saturn\u2019s rings are made of ice and rocks, but no one knows if they are very old or formed recently.",
+        "category": "Universe"
+    },
+    {
+        "title": "Astronauts and Spacesuits",
+        "description": "Astronauts wear special suits that keep them safe in space. It takes six hours to get them ready!",
+        "category": "Universe"
+    },
+    {
+        "title": "The Colors of Stars",
+        "description": "Stars can be red, yellow, or blue. Blue stars are the hottest, while red stars are the coolest!",
+        "category": "Universe"
+    },
+    {
+        "title": "Stars Often Come in Pairs",
+        "description": "Many stars travel in pairs or groups. Binary stars orbit each other, creating beautiful sights.",
+        "category": "Universe"
+    },
+    {
+        "title": "Giant Stars and Their Size",
+        "description": "The largest stars, like VY Canis Majoris, are so big they could fit Saturn\u2019s orbit inside them!",
+        "category": "Universe"
+    },
+    {
+        "title": "Mars\u2019 Lost Atmosphere",
+        "description": "Mars once had a thicker atmosphere, but over time, it thinned because of the Sun\u2019s energy.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Sun vs. Earth",
+        "description": "The Earth is tiny compared to the Sun. Over 1.3 million Earths could fit inside the Sun!",
+        "category": "Universe"
+    },
+    {
+        "title": "Pluto: The Dwarf Planet",
+        "description": "Pluto was once a planet, but in 2006, scientists called it a \u2018dwarf planet\u2019 instead.",
+        "category": "Universe"
+    },
+    {
+        "title": "Jupiter: A Comet Catcher",
+        "description": "Jupiter\u2019s massive size pulls in asteroids and comets, protecting Earth from impacts.",
+        "category": "Universe"
+    },
+    {
+        "title": "Supersonic Winds on Neptune",
+        "description": "Winds on Neptune blow faster than the speed of sound, making it the windiest planet!",
+        "category": "Universe"
+    },
+    {
+        "title": "Stormy Uranus",
+        "description": "Uranus looks calm, but it has storms and strong winds we are still learning about.",
+        "category": "Universe"
+    },
+    {
+        "title": "The Moon Looks Upside Down in the Southern Hemisphere",
+        "description": "The \u2018Man in the Moon\u2019 appears inverted when viewed from the Southern Hemisphere.",
+        "category": "Universe"
+    },
+    {
+        "title": "What Stars Are Made Of",
+        "description": "Stars are mostly hydrogen and helium, the same gases formed during the Big Bang.",
+        "category": "Universe"
+    },
+    {
+        "title": "You Travel 2.5 Million Kilometers a Day Around the Sun",
+        "description": "Earth travels 2.5 million kilometers daily with respect to the Sun's center.",
+        "category": "Universe"
+    },
+    {
+        "title": "Venus and Its Missing Moons",
+        "description": "Venus has no moons, and scientists still don\u2019t know why.",
+        "category": "Universe"
+    },
+    {
+        "title": "It's Almost Impossible to Get Too Much Sugar From Fresh Fruit",
+        "description": "It's almost impossible to get too much sugar from fresh fruit. The fiber and water in fruit slow down digestion and help you feel full, preventing excessive sugar intake.",
+        "category": "Health"
+    },
+    {
+        "title": "People Who Eat Whatever They Want and Stay Slim Have a Slow Metabolism, Not Fast",
+        "description": "People who stay slim despite eating a lot typically have a slower metabolism due to having less muscle mass, which results in a lower basal metabolic rate.",
+        "category": "Health"
+    },
+    {
+        "title": "Football Players Spit So Much Because Exercise Increases the Amount of Protein in Saliva",
+        "description": "Exercise increases the protein content in saliva, making it thicker and harder to swallow, which leads many football players to spit more during games.",
+        "category": "Health"
+    },
+    {
+        "title": "Your Brain Burns 400-500 Calories a Day",
+        "description": "That\u2019s about a fifth of your total energy requirements, with most used for automatic processes like controlling muscles and processing sensory input.",
+        "category": "Health"
+    },
+    {
+        "title": "Your Nails Grow Faster in Hot Summer",
+        "description": "Your nails grow faster in hot summer due to increased blood supply to the fingertips, and possibly because you're less stressed on holiday.",
+        "category": "Health"
+    },
+    {
+        "title": "You Inhale 50 Potentially Harmful Bacteria Every Time You Breathe",
+        "description": "Thankfully, your immune system is working hard all the time, so virtually all of these are promptly destroyed without you feeling a thing.",
+        "category": "Health"
+    },
+    {
+        "title": "The Longest Anyone Has Held Their Breath Underwater Is Over 24.5 Minutes",
+        "description": "The world record for holding breath underwater is 24 minutes and 37 seconds, set by Croatian Budimir \u0160obat in 2021.",
+        "category": "Health"
+    },
+    {
+        "title": "Ties Can Reduce Blood Flow to the Brain",
+        "description": "Wearing a necktie can decrease blood flow to the brain by up to 7.5%, potentially causing dizziness and headaches.",
+        "category": "Health"
+    },
+    {
+        "title": "Mosquitoes Can Spread Diseases",
+        "description": "Diseases like malaria and dengue are caused by mosquito bites, so always use mosquito nets or repellents.",
+        "category": "Health"
+    },
+    {
+        "title": "You Can Die Laughing",
+        "description": "Intense laughter can trigger fatal heart attacks or suffocation, making comedy shows potentially risky.",
+        "category": "Health"
+    },
+    {
+        "title": "First Aid Saves Lives",
+        "description": "Knowing basic first aid, like how to stop bleeding or treat a burn, can save someone in an emergency.",
+        "category": "Health"
+    },
+    {
+        "title": "Deaf People Use Sign Language in Their Sleep",
+        "description": "A case study showed a man with rapid eye movement disorder using fluent sign language in his sleep.",
+        "category": "Health"
+    },
+    {
+        "title": "Sleep Is Essential for Growth",
+        "description": "When you sleep, your body grows and repairs itself. Kids need at least 9 hours of sleep each night!",
+        "category": "Health"
+    },
+    {
+        "title": "Taste Changes as You Grow",
+        "description": "Your taste buds are more sensitive as a child, which is why some foods taste different as you age.",
+        "category": "Health"
+    },
+    {
+        "title": "The Brain Uses 20% of Your Energy",
+        "description": "Although it\u2019s only about 2% of your body weight, the brain uses a lot of energy to keep you going.",
+        "category": "Health"
+    },
+    {
+        "title": "Somebody Was Constipated for 45 Days",
+        "description": "An Indian woman had a faecal mass surgically removed in 2013, measuring the size of a football.",
+        "category": "Health"
+    },
+    {
+        "title": "Fruits and Veggies Give Superpowers!",
+        "description": "Eating colorful fruits and vegetables provides vitamins that make your body strong and healthy.",
+        "category": "Health"
+    },
+    {
+        "title": "The Nose Smells Chemicals",
+        "description": "When you sniff a flower, tiny chemicals enter your nose and are detected by smell receptors.",
+        "category": "Health"
+    },
+    {
+        "title": "You Can Be Heavily Pregnant and Not Realise",
+        "description": "Cryptic pregnancies occur in 1 in 500 cases, with some not discovered until labour begins.",
+        "category": "Health"
+    },
+    {
+        "title": "Exercise Makes Your Heart Happy",
+        "description": "Running, dancing, or cycling strengthens your heart, which pumps blood all over your body.",
+        "category": "Health"
+    },
+    {
+        "title": "Coughing into Your Elbow Stops Germs",
+        "description": "Covering your mouth with your elbow when coughing prevents germs from spreading to others.",
+        "category": "Health"
+    },
+    {
+        "title": "The Brain Has Billions of Neurons",
+        "description": "Neurons are like tiny messengers in the brain, sending signals to every part of your body.",
+        "category": "Health"
+    },
+    {
+        "title": "Adverse Reactions to Medicines Are Rare",
+        "description": "Most medicines are safe, but doctors monitor for rare side effects to keep patients safe.",
+        "category": "Health"
+    },
+    {
+        "title": "The Brain Works Faster Than a Computer",
+        "description": "Your brain processes information at an incredible speed, faster than most supercomputers.",
+        "category": "Health"
+    },
+    {
+        "title": "Your Brain Is the Control Center",
+        "description": "The brain controls everything you do, from thinking and talking to moving and breathing.",
+        "category": "Health"
+    },
+    {
+        "title": "Insulin Helps People with Diabetes",
+        "description": "Insulin is a medicine that helps people with diabetes control their blood sugar levels.",
+        "category": "Health"
+    },
+    {
+        "title": "Ears Pick Up Sound Waves",
+        "description": "Sound waves enter your ear, and your brain turns them into noises like music or voices.",
+        "category": "Health"
+    },
+    {
+        "title": "Water Is the Best Drink for Your Body",
+        "description": "Your body is 60% water, so drinking enough water helps keep you energized and focused.",
+        "category": "Health"
+    },
+    {
+        "title": "Too Much Sugar Is Bad for You",
+        "description": "Eating too much sugar can lead to cavities and make you feel tired after a sugar rush.",
+        "category": "Health"
+    },
+    {
+        "title": "Healthy Food Prevents Illness",
+        "description": "Eating a balanced diet keeps your immune system strong, so you don\u2019t fall sick easily.",
+        "category": "Health"
+    },
+    {
+        "title": "Too Much Screen Time Hurts Your Eyes",
+        "description": "Staring at screens for too long can strain your eyes, so take breaks every 20 minutes.",
+        "category": "Health"
+    },
+    {
+        "title": "Antivirals Fight Viruses",
+        "description": "Antiviral medicines help treat illnesses like the flu or chickenpox caused by viruses.",
+        "category": "Health"
+    },
+    {
+        "title": "Eyes Detect Light to See",
+        "description": "Your eyes sense light, and your brain turns it into pictures so you can see the world.",
+        "category": "Health"
+    },
+    {
+        "title": "The Skin Feels Pressure and Pain",
+        "description": "Your skin has nerves that sense touch, temperature, and pain to protect you from harm.",
+        "category": "Health"
+    },
+    {
+        "title": "Calcium Builds Strong Bones",
+        "description": "Milk, cheese, and leafy greens have calcium, which keeps your bones and teeth strong.",
+        "category": "Health"
+    },
+    {
+        "title": "Proteins Are the Building Blocks",
+        "description": "Protein-rich foods like eggs, fish, and beans help build muscles and repair tissues.",
+        "category": "Health"
+    },
+    {
+        "title": "Washing Hands Prevents Germs",
+        "description": "Washing your hands with soap kills germs that can cause diseases like colds and flu.",
+        "category": "Health"
+    },
+    {
+        "title": "Vaccines Protect You from Illnesses",
+        "description": "Vaccines teach your body how to fight dangerous germs before they can make you sick.",
+        "category": "Health"
+    },
+    {
+        "title": "Regular Checkups Keep You Safe",
+        "description": "Visiting the doctor regularly helps catch diseases early before they become serious.",
+        "category": "Health"
+    },
+    {
+        "title": "Vaccines Save Millions of Lives",
+        "description": "Vaccines prevent diseases like measles, mumps, and chickenpox, keeping kids healthy.",
+        "category": "Health"
+    },
+    {
+        "title": "Carbohydrates Give Quick Energy",
+        "description": "Foods like bread, rice, and pasta provide energy to keep you active during the day.",
+        "category": "Health"
+    },
+    {
+        "title": "Stretching Prevents Injuries",
+        "description": "Stretching before exercise makes your muscles flexible and less likely to get hurt.",
+        "category": "Health"
+    },
+    {
+        "title": "Exercise Reduces Stress",
+        "description": "Physical activity releases feel-good hormones that help you stay relaxed and happy.",
+        "category": "Health"
+    },
+    {
+        "title": "The Brain Never Sleeps",
+        "description": "Even when you\u2019re asleep, your brain stays active, organizing memories and thoughts.",
+        "category": "Health"
+    },
+    {
+        "title": "Antibiotics Fight Bacteria",
+        "description": "Antibiotics are medicines that kill bacteria causing infections like strep throat.",
+        "category": "Health"
+    },
+    {
+        "title": "Brushing Your Teeth Prevents Cavities",
+        "description": "Brushing twice a day removes bacteria that can cause tooth decay and gum disease.",
+        "category": "Health"
+    },
+    {
+        "title": "Dreams Happen During Sleep",
+        "description": "Dreams occur when your brain processes thoughts and experiences while you sleep.",
+        "category": "Health"
+    },
+    {
+        "title": "Exercise Boosts Brainpower",
+        "description": "Staying active improves memory and focus by increasing blood flow to the brain.",
+        "category": "Health"
+    },
+    {
+        "title": "Polio Is Almost Eradicated",
+        "description": "Thanks to vaccines, the dangerous disease polio is nearly wiped out worldwide.",
+        "category": "Health"
+    },
+    {
+        "title": "The Brain Loves Challenges",
+        "description": "Puzzles and games keep your brain sharp by encouraging problem-solving skills.",
+        "category": "Health"
+    },
+    {
+        "title": "The Right Side of Your Brain Controls the Left Side of Your Body",
+        "description": "The brain\u2019s two halves work together but control opposite sides of your body.",
+        "category": "Health"
+    },
+    {
+        "title": "Medicines Come from Nature",
+        "description": "Many medicines, like aspirin, were first made from plants like willow trees.",
+        "category": "Health"
+    },
+    {
+        "title": "Fiber Keeps Your Tummy Healthy",
+        "description": "Whole grains and fruits like apples have fiber, which helps with digestion.",
+        "category": "Health"
+    },
+    {
+        "title": "The Heart Sends Oxygen to the Brain",
+        "description": "Your heart pumps oxygen-rich blood to your brain, helping it work properly.",
+        "category": "Health"
+    },
+    {
+        "title": "Painkillers Help with Headaches",
+        "description": "Painkillers like paracetamol reduce pain when you feel sick or injured.",
+        "category": "Health"
+    },
+    {
+        "title": "Flu Shots Prevent Seasonal Illness",
+        "description": "Getting a flu vaccine every year can protect you from getting the flu.",
+        "category": "Health"
+    },
+    {
+        "title": "Smiling Makes You Happier",
+        "description": "When you smile, your brain releases chemicals that make you feel good.",
+        "category": "Health"
+    },
+    {
+        "title": "Not All Germs Are Bad",
+        "description": "Some bacteria in your stomach help digest food and keep you healthy.",
+        "category": "Health"
+    },
+    {
+        "title": "Taste Buds Love Five Flavors",
+        "description": "Your tongue can taste sweet, salty, sour, bitter, and umami flavors.",
+        "category": "Health"
+    },
+    {
+        "title": "Reading Strengthens Your Brain",
+        "description": "Reading stimulates the brain, improving vocabulary and creativity.",
+        "category": "Health"
+    },
+    {
+        "title": "Your Nose Can Remember Thousands of Smells",
+        "description": "The human nose can identify more than 1 trillion different scents!",
+        "category": "Health"
+    },
+    {
+        "title": "Hearing Loss Can Be Prevented",
+        "description": "Avoid loud noises or use ear protection to protect your hearing.",
+        "category": "Health"
+    },
+    {
+        "title": "There Might Be a Cure for 'Evil'",
+        "description": "Psychopathy might be treatable with cognitive behavioral therapy, which can reduce violent behavior and even help people with the condition experience empathy and regret.",
+        "category": "Psychology"
+    },
+    {
+        "title": "You Don't Like the Sound of Your Own Voice Because of the Bones in Your Head",
+        "description": "You don\u2019t like the sound of your own voice because the bones in your head transmit sound differently, making your voice sound deeper to you than to others.",
+        "category": "Psychology"
+    },
+    {
+        "title": "You Remember More Dreams When You Sleep Badly",
+        "description": "You tend to remember more dreams if you sleep poorly and wake up several times during the night, as you're more likely to recall dreams upon waking.",
+        "category": "Psychology"
+    },
+    {
+        "title": "Laughing Came Before Language",
+        "description": "Some researchers tickled baby apes, showing that the structure of laughter likely arose in our common ancestors millions of years ago.",
+        "category": "Psychology"
+    },
+    {
+        "title": "Martial Artists Who Smile Before the Start of a Match Are More Likely to Lose",
+        "description": "Martial artists who smile before a match may lose more often, as smiling can convey fear or submission, which could signal weakness.",
+        "category": "Psychology"
+    },
+    {
+        "title": "Fear of Long Words Has a Long Name",
+        "description": "Hippopotomonstrosesquippedaliophobia is the fear of long words. The term itself is ironically long and complex.",
+        "category": "Psychology"
+    },
+    {
+        "title": "Your Signature Could Reveal Personality Traits",
+        "description": "A study found larger signatures correlate with higher social bravado in men and narcissistic traits in women.",
+        "category": "Psychology"
+    },
+    {
+        "title": "Being Bored Is Actually a 'High Arousal State' Physiologically",
+        "description": "Being bored is actually a high arousal state. This is because boredom can cause your heart rate to increase.",
+        "category": "Psychology"
+    },
+    {
+        "title": "Islands and Their Population",
+        "description": "The world's islands host about 730 million people, which is 9% of the global population. Java in Indonesia is the most populated island, followed by Honshu in Japan with 102 million people.",
+        "category": "Geography"
+    },
+    {
+        "title": "The World's Most Forested Country",
+        "description": "Suriname is the most forested country, with 97.3% of its land covered by forests. Russia has the largest total forest area, about 8 million square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Seven 'Stan' Countries",
+        "description": "Seven countries in Central and South Asia have names ending in 'Stan,' such as Pakistan, Kazakhstan, and Uzbekistan. The suffix 'Stan' means 'land.'",
+        "category": "Geography"
+    },
+    {
+        "title": "The Four Most Populated Cities",
+        "description": "The most populated cities in the world are all in Asia: Tokyo (37.2 million), Jakarta (33.4 million), Delhi (29 million), and Seoul (25.5 million).",
+        "category": "Geography"
+    },
+    {
+        "title": "Nordic Countries\u2019 Economy",
+        "description": "The Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) have a combined population of 27 million but an economy worth $1.8 trillion.",
+        "category": "Geography"
+    },
+    {
+        "title": "Average Human Life Expectancy",
+        "description": "The average life expectancy of humans is 73.3 years. It was just 46 years in 1950, showing significant progress in health and living conditions.",
+        "category": "Geography"
+    },
+    {
+        "title": "Global Fertility Rate",
+        "description": "In 2024, the average woman gave birth to 2.41 children. When this number drops below 2.1, the global population may start to decline.",
+        "category": "Geography"
+    },
+    {
+        "title": "Asia\u2019s Dominance",
+        "description": "Asia is the largest continent by size (44 million km\u00b2) and population (4.7 billion people). It holds 60% of the world\u2019s population.",
+        "category": "Geography"
+    },
+    {
+        "title": "Countries with 'Democracy' in Their Name",
+        "description": "Surprisingly, countries with 'Democratic' in their names rank lower (3.89/10) on the democracy index compared to others (5.6/10).",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Desert",
+        "description": "The Sahara Desert in Africa is the largest hot desert, spanning 9 million km\u00b2. Antarctica, however, is the largest cold desert!",
+        "category": "Geography"
+    },
+    {
+        "title": "The Smallest Country",
+        "description": "Vatican City is the smallest country in the world, covering just 44 hectares (0.44 km\u00b2). It is located within Rome, Italy.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Tallest Mountain",
+        "description": "Mount Everest, on the border of Nepal and China, stands 8,848 meters above sea level and is the tallest mountain on Earth.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Longest River",
+        "description": "The Nile River in Africa is about 6,650 km long, making it the longest river in the world. It flows through 11 countries!",
+        "category": "Geography"
+    },
+    {
+        "title": "What\u2019s an Isthmus?",
+        "description": "An isthmus is a narrow strip of land connecting two larger areas. Panama is an example, linking North and South America.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Island Country",
+        "description": "Indonesia, the largest island country, has 17,500 islands. However, Sweden has the most islands of any country\u2014267,000!",
+        "category": "Geography"
+    },
+    {
+        "title": "The Newest Capital City",
+        "description": "Juba, the capital of South Sudan, became the world\u2019s newest capital city in 2011. It has a population of about 500,000.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Earth\u2019s Shape",
+        "description": "The Earth is not a perfect sphere; it\u2019s an oblate spheroid, slightly flattened at the poles and bulging at the equator.",
+        "category": "Geography"
+    },
+    {
+        "title": "Manhattan\u2019s Population",
+        "description": "Manhattan, a borough of New York City, has 1.6 million residents\u2014more than 44 countries, including Fiji and Estonia.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Lowest Point on Land",
+        "description": "The Dead Sea, located between Israel and Jordan, is 430 meters below sea level, making it the lowest point on land.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Most Developed Country",
+        "description": "Switzerland is the most developed country, according to the Human Development Index (HDI), with a score of 0.967.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Continent",
+        "description": "Asia is the largest continent, covering 44.58 million km\u00b2. It\u2019s home to more than half of the world\u2019s population.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Saltiest Body of Water",
+        "description": "Don Juan Pond in Antarctica has the highest salinity, making it impossible for it to freeze even in extreme cold.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Lake",
+        "description": "The Caspian Sea is the largest lake in the world, covering 371,000 km\u00b2. Despite its name, it\u2019s a saltwater lake.",
+        "category": "Geography"
+    },
+    {
+        "title": "Africa\u2019s Largest Country",
+        "description": "Algeria is Africa\u2019s largest country, covering 2.4 million km\u00b2, which is nearly 8% of the continent\u2019s land area.",
+        "category": "Geography"
+    },
+    {
+        "title": "The World\u2019s Largest Sea",
+        "description": "The Philippine Sea is the largest sea on Earth, covering 5.7 million km\u00b2. That\u2019s bigger than two Argentinas!",
+        "category": "Geography"
+    },
+    {
+        "title": "Most Maps Are Misleading",
+        "description": "The Mercator projection distorts land sizes, making Greenland appear 14 times larger than it actually is.",
+        "category": "Geography"
+    },
+    {
+        "title": "Countries with No Rivers",
+        "description": "There are 19 countries without rivers, including Saudi Arabia, which relies on underground water sources.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Country Closest to Space",
+        "description": "Ecuador's Mount Chimborazo is the closest point on Earth to space, due to its location near the equator.",
+        "category": "Geography"
+    },
+    {
+        "title": "Australia\u2019s Size",
+        "description": "Australia is the largest country in Oceania, covering 7.7 million km\u00b2, or 86% of the continent\u2019s land.",
+        "category": "Geography"
+    },
+    {
+        "title": "Singapore: A Densely Populated Island",
+        "description": "Singapore is the most densely populated island country, with 7,800 people per km\u00b2 in its 728 km\u00b2 area.",
+        "category": "Geography"
+    },
+    {
+        "title": "Landlocked Countries",
+        "description": "There are 44 countries without access to oceans. The largest is Kazakhstan, covering 2.7 million km\u00b2.",
+        "category": "Geography"
+    },
+    {
+        "title": "Brazil\u2019s Size in South America",
+        "description": "Brazil makes up nearly half of South America\u2019s area and population, which totals 442 million people.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Ocean",
+        "description": "The Pacific Ocean covers 63 million square miles, making it larger than all the continents combined.",
+        "category": "Geography"
+    },
+    {
+        "title": "The World\u2019s Rainiest Place",
+        "description": "Mawsynram in India receives about 11,871 mm of rain annually, making it the wettest place on Earth.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Most Forested Country",
+        "description": "Suriname, in South America, is the most forested country, with 98% of its land covered by forests.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Only Continent with Every Type of Climate",
+        "description": "Africa is the only continent that has deserts, rainforests, savannas, and Mediterranean climates.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Smallest Continent",
+        "description": "Australia is the smallest continent, covering 7.7 million km\u00b2. It is often grouped with Oceania.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Smallest Island Nation",
+        "description": "Nauru, in the Pacific Ocean, is the smallest island country, covering just 21 square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "Asia\u2019s Smallest Country",
+        "description": "The Maldives is Asia\u2019s smallest country, made up of 1,000 coral islands, covering just 300 km\u00b2.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Hottest Place on Earth",
+        "description": "Death Valley, California, holds the record for the highest temperature: 56.7\u00b0C (134\u00b0F) in 1913.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Coral Reef",
+        "description": "The Great Barrier Reef in Australia is the largest coral reef system, stretching over 2,300 km.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Delta",
+        "description": "The Ganges-Brahmaputra Delta, in India and Bangladesh, is the largest river delta in the world.",
+        "category": "Geography"
+    },
+    {
+        "title": "Oceania\u2019s Border",
+        "description": "Papua New Guinea is the only country in Oceania with a land border, sharing it with Indonesia.",
+        "category": "Geography"
+    },
+    {
+        "title": "The World\u2019s Windiest Place",
+        "description": "Commonwealth Bay in Antarctica is known as the windiest place, with winds reaching 240 km/h.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Plateau",
+        "description": "The Tibetan Plateau, known as the 'Roof of the World,' covers 2.5 million square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Longest Underwater Mountain Range",
+        "description": "The Mid-Atlantic Ridge is the longest underwater mountain range, spanning 16,000 kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Deepest Lake",
+        "description": "Lake Baikal in Siberia is the deepest freshwater lake, plunging to a depth of 1,642 meters.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Longest Mountain Range",
+        "description": "The Andes, in South America, stretch over 7,000 km, making them the longest mountain range.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Mangrove Forest",
+        "description": "The Sundarbans, spanning India and Bangladesh, is the largest mangrove forest in the world.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Country with the Highest Average Altitude",
+        "description": "Bhutan has the highest average altitude, with most of the country lying above 3,000 meters.",
+        "category": "Geography"
+    },
+    {
+        "title": "Greenland: The Largest Island",
+        "description": "Greenland is the world\u2019s largest island (excluding continents), spanning 2.13 million km\u00b2.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Fastest Growing Desert",
+        "description": "The Sahara Desert expands by about 48 km annually due to climate change and deforestation.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Most Visited City",
+        "description": "Bangkok, Thailand, is the most visited city, attracting over 22 million tourists annually.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Bay",
+        "description": "The Bay of Bengal is the largest bay in the world, covering 2.1 million square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "South Korea\u2019s Low Fertility Rate",
+        "description": "South Korea has the world\u2019s lowest fertility rate, 0.68, and its population is declining.",
+        "category": "Geography"
+    },
+    {
+        "title": "The 100th Most Populated Country",
+        "description": "Sierra Leone has 8.5 million people, accounting for just 0.1% of the world\u2019s population.",
+        "category": "Geography"
+    },
+    {
+        "title": "The City with the Most Skyscrapers",
+        "description": "Hong Kong has more skyscrapers than any other city, with over 9,000 high-rise buildings.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest City by Area",
+        "description": "Hulunbuir, in Inner Mongolia, China, is the largest city by area, covering 263,953 km\u00b2.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Most Earthquakes",
+        "description": "Japan experiences the most earthquakes due to its location on the Pacific Ring of Fire.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Peninsula",
+        "description": "The Arabian Peninsula is the largest peninsula, covering 3.2 million square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Iceberg",
+        "description": "The largest iceberg ever recorded was Iceberg B-15, measuring 11,000 square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "North America\u2019s Largest Country",
+        "description": "Canada is the largest country in North America, making up 41% of the continent\u2019s size.",
+        "category": "Geography"
+    },
+    {
+        "title": "Italy\u2019s UNESCO World Heritage Sites",
+        "description": "Italy leads the world with 59 UNESCO World Heritage Sites, followed by China with 57.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Oldest Lake",
+        "description": "Lake Baikal in Siberia is also the oldest lake, estimated to be 25 million years old.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Island",
+        "description": "Greenland is the world\u2019s largest island, covering over 2.1 million square kilometers.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Most Volcanic Country",
+        "description": "Indonesia has the most active volcanoes in the world, with about 130 still erupting.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Fastest Ocean Current",
+        "description": "The Antarctic Circumpolar Current moves water faster than any other ocean current.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Coldest Place on Earth",
+        "description": "Antarctica\u2019s Vostok Station recorded a temperature of -89.2\u00b0C (-128.6\u00b0F) in 1983.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Longest Beach",
+        "description": "Praia do Cassino in Brazil is the longest beach in the world, stretching 254 km.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest River by Volume",
+        "description": "The Amazon River carries more water than the next seven largest rivers combined.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Longest Border",
+        "description": "The USA and Canada share the longest international border, stretching 8,891 km.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Waterfall",
+        "description": "Angel Falls in Venezuela is the tallest waterfall, with a height of 979 meters.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Most Overseas Territories",
+        "description": "The UK has the most overseas territories (17), beating France, which has 16.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Cave Chamber",
+        "description": "The Sarawak Chamber in Malaysia is the largest known cave chamber by volume.",
+        "category": "Geography"
+    },
+    {
+        "title": "The 100th Largest Country",
+        "description": "Benin, in West Africa, is the 100th largest country, covering 114,700 km\u00b2.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Smallest Ocean",
+        "description": "The Arctic Ocean is the smallest, covering about 5.4 million square miles.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Longest Coastline",
+        "description": "Canada has the longest coastline in the world, stretching over 202,080 km.",
+        "category": "Geography"
+    },
+    {
+        "title": "The World\u2019s Driest Place",
+        "description": "The Atacama Desert in Chile has places where rain has never been recorded.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Country with the Most Lakes",
+        "description": "Canada is home to about 60% of the world\u2019s lakes, over 2 million in total.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Country with the Most Volcanoes",
+        "description": "The United States has the most volcanoes, mainly due to Alaska and Hawaii.",
+        "category": "Geography"
+    },
+    {
+        "title": "Nigeria: Africa\u2019s Most Populated Country",
+        "description": "With 224 million people, Nigeria accounts for 15% of Africa\u2019s population.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Volcano",
+        "description": "Mauna Loa in Hawaii is the largest volcano by volume, covering 5,271 km\u00b2.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Oldest Desert",
+        "description": "The Namib Desert in Africa is estimated to be 55 million years old.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Country with the Most Islands",
+        "description": "Sweden has over 267,000 islands, more than any other country.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Largest Archipelago",
+        "description": "Indonesia is the largest archipelago, with 17,500 islands.",
+        "category": "Geography"
+    },
+    {
+        "title": "The Country with No Forests",
+        "description": "Qatar has no forests, making it unique among countries.",
+        "category": "Geography"
+    },
+    {
+        "title": "Someone Left a Family Photo on the Moon",
+        "description": "When Apollo 16 astronaut Charles Duke landed on the Moon in 1972, he decided to leave behind a photo of him, his two sons, and his wife. The photo remains on the Moon to this day.",
+        "category": "History"
+    },
+    {
+        "title": "Chainsaws Were Invented for Childbirth",
+        "description": "Originally developed in the 18th century to aid in childbirth, chainsaws were later adapted for woodcutting.",
+        "category": "History"
+    },
+    {
+        "title": "You Have a 50 Per Cent Chance of Sharing a Birthday with a Friend",
+        "description": "In any group of 23 people, two people will share a birthday. The probability of a shared birthday is 50.7 percent.",
+        "category": "Mathematics"
+    },
+    {
+        "title": "There\u2019s No Such Thing as a Straight Line",
+        "description": "Zooming in on any surface reveals irregularities, showing that true straight lines don't exist.",
+        "category": "Mathematics"
+    },
+    {
+        "title": "Finland Is the Happiest Country on Earth",
+        "description": "According to the World Happiness Report, Finland has been ranked happiest for six consecutive years.",
+        "category": "Society"
+    },
+    {
+        "title": "LEGO Bricks Withstand Compression Better Than Concrete",
+        "description": "LEGO bricks can support the weight of 375,000 other bricks, withstanding compression better than concrete. This means you could theoretically build a tower up to 3.5km high with LEGO bricks.",
+        "category": "Engineering"
+    },
+    {
+        "title": "The Printing Press Spread Knowledge",
+        "description": "Johannes Gutenberg\u2019s invention of the printing press allowed books to be made faster and cheaper, spreading knowledge worldwide.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Robot Pets Are a Thing!",
+        "description": "Robot pets like Aibo are designed to look and act like real animals, bringing joy without the need for feeding or cleaning.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Lightbulb That Changed the World",
+        "description": "Thomas Edison\u2019s invention of the lightbulb brought light to homes and streets, making life safer and more convenient.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "AI Translates Languages",
+        "description": "AI-powered translators can instantly convert words from one language to another, breaking communication barriers.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Batteries Power Our Gadgets",
+        "description": "Batteries store chemical energy and convert it into electricity to power devices like phones and flashlights.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Internet Was Born in 1983",
+        "description": "The internet revolutionized the way we learn, communicate, and work, connecting billions of people globally.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "AI Learns From Data",
+        "description": "Artificial intelligence gets smarter by studying lots of information, just like how we learn from practice.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Paper Was Invented in Ancient China",
+        "description": "Paper, invented around 2,000 years ago, is one of humanity\u2019s most important discoveries for communication.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Fireworks Use Chemistry",
+        "description": "The colors in fireworks come from burning different chemicals, like strontium for red and copper for blue.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Penicillin Was Discovered by Accident",
+        "description": "Alexander Fleming discovered penicillin, the first antibiotic, by observing mold that killed bacteria.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Solar Panels Harvest Sunlight",
+        "description": "Solar panels convert sunlight into electricity, providing a clean energy source for homes and schools.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Bridges Use Physics",
+        "description": "Bridges are designed to distribute weight evenly, making them strong enough to hold cars and people.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The First Airplane Took Flight in 1903",
+        "description": "The Wright brothers built the first airplane, allowing humans to fly for the first time in history.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "X-rays Help See Inside the Body",
+        "description": "X-rays, discovered by Wilhelm Roentgen, are used to check for broken bones and other health issues.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Self-Driving Cars Use AI",
+        "description": "Artificial Intelligence helps cars drive themselves by detecting roads, signs, and other vehicles.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Telescope Shows Us the Universe",
+        "description": "Invented by Galileo, the telescope lets us see stars, planets, and galaxies far away from Earth.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Robots Help in Dangerous Jobs",
+        "description": "Robots are used to explore deep oceans, space, and even volcanoes, where humans can\u2019t safely go.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The First Computer Filled a Room",
+        "description": "The ENIAC computer, built in 1945, was as large as a room and could only do basic calculations.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The First Bicycle Had No Pedals",
+        "description": "Early bicycles, called velocipedes, were pushed by feet on the ground before pedals were added.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Radio Waves Connect the World",
+        "description": "Guglielmo Marconi\u2019s invention of the radio paved the way for modern communication like Wi-Fi.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Robots Help Farmers",
+        "description": "Farming robots can plant seeds, water crops, and even harvest fruits, saving time and effort.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "3D Printers Create Anything",
+        "description": "From toys to houses, 3D printers can build objects layer by layer using special materials.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "AI Can Talk Like Humans",
+        "description": "Virtual assistants like Siri and Alexa use AI to understand and respond to our questions.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Trains Move Tons of Goods",
+        "description": "Freight trains carry huge amounts of goods like coal, grain, and cars across countries.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Robots Can Be as Small as Insects",
+        "description": "Tiny robots called nanobots can swim in the body to deliver medicines or repair cells.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Electric Mixers Save Time",
+        "description": "Kitchen mixers make baking easier by quickly mixing ingredients like dough and batter.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Magnets Are Used in Many Machines",
+        "description": "Magnets power electric motors, keep fridge doors shut, and are even used in computers.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Airplane Changed Travel Forever",
+        "description": "Airplanes allow us to cross oceans in hours, something that once took months by ship.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Glasses Help People See Clearly",
+        "description": "Lenses in glasses bend light to correct vision, helping millions of people every day.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Internet Uses Fiber Optics",
+        "description": "Fiber optic cables use light to send information across the world at lightning speed.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Robots Help in Surgery",
+        "description": "Surgical robots assist doctors with precise movements during complicated operations.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Compass Points the Way",
+        "description": "The magnetic compass, invented in ancient China, helped sailors navigate the oceans.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Plastic Is Made From Oil",
+        "description": "Most plastics are created from petroleum, a natural resource found deep underground.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Airplanes Have Black Boxes",
+        "description": "A black box records flight information and helps investigators understand accidents.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Wheels Make Travel Easy",
+        "description": "Wheels reduce friction, making it easier to move heavy loads on carts and vehicles.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Wheel Is One of the Oldest Inventions",
+        "description": "Invented over 5,000 years ago, the wheel revolutionized transportation and tools.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Satellites Orbit the Earth",
+        "description": "Satellites send TV signals, monitor weather, and help GPS devices find locations.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Cranes Build Skyscrapers",
+        "description": "Tower cranes lift heavy materials like steel and cement to build tall buildings.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "AI Detects Fake News",
+        "description": "AI tools can identify misinformation and help people find accurate news online.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Windmills Generate Energy",
+        "description": "Wind turbines use wind power to produce electricity without polluting the air.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Pencils Are Made From Graphite",
+        "description": "Graphite, a form of carbon, is the main material used in making pencil leads.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Vacuum Cleaner Keeps Homes Clean",
+        "description": "The first vacuum cleaner was invented in 1901 and made cleaning much easier.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The First Robot Vacuum Cleaned in 2002",
+        "description": "The Roomba, a small robot vacuum, can clean floors on its own using sensors.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Camera Captures Memories",
+        "description": "The invention of the camera allows us to save moments forever as pictures.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Electric Fans Cool the Air",
+        "description": "Fans move air around to create a cooling effect, especially on hot days.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Velcro Was Inspired by Nature",
+        "description": "Velcro was invented after observing how burrs stuck to clothing and fur.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "The Air Conditioner Cools the World",
+        "description": "Invented in 1902, air conditioning changed how we live in hot climates.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Soap Protects You From Germs",
+        "description": "Soap breaks down oils and dirt, washing away germs to keep us healthy.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Microwaves Heat Food Quickly",
+        "description": "Microwave ovens use waves of energy to heat food from the inside out.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "title": "Refrigerators Keep Food Fresh",
+        "description": "Fridges slow down the growth of bacteria, making food last longer.",
+        "category": "Technology and Engineering"
+    },
+    {
+        "description": "Three students are lined up, and each is wearing a hat. Each hat is either red or blue. The first student sees the hats of the other two, the second sees only the last student\u2019s hat, and the third sees none. When asked the color of their hats, they reply: 1. First student: 'I don\u2019t know.' 2. Second student: 'I don\u2019t know.' 3. Third student: 'I know!' What is the color of the third student\u2019s hat, and how do they know?",
+        "answer": "The third student\u2019s hat is blue. If the first student didn\u2019t know, it means the other two hats are not both red. If the second student still didn\u2019t know, it means the third student\u2019s hat must be blue.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Three people check into a hotel room that costs $30. They each pay $10, but later the manager realizes the room should only cost $25. The manager gives $5 to the bellboy to return to the guests. The bellboy, unable to split $5 evenly, gives each guest $1 and keeps $2 as a tip. Now, each guest has paid $9, totaling $27. The bellboy kept $2, but where is the missing dollar?",
+        "answer": "There is no missing dollar. The $27 total includes the $25 for the room and the $2 tip for the bellboy.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Four friends need to cross a bridge at night. They have one flashlight, and at most two people can cross at a time. Person A takes 1 minute to cross. Person B takes 2 minutes to cross. Person C takes 5 minutes to cross. Person D takes 10 minutes to cross. What is the minimum time needed for all four to cross the bridge?",
+        "answer": "17 minutes. Steps: 1. A and B cross (2 minutes). 2. A returns (1 minute). 3. C and D cross (10 minutes). 4. B returns (2 minutes). 5. A and B cross again (2 minutes).",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You find a locked box with four colored buttons: red, blue, yellow, and green. Pressing the buttons in the wrong order locks the box permanently. A note reads: 1. Red comes immediately after blue. 2. Yellow is not the last button. 3. The sequence starts with blue. What is the correct order of the buttons?",
+        "answer": "Blue \u2192 Red \u2192 Yellow \u2192 Green",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You are in a castle with three doors: Behind the first door is a fire-breathing dragon. Behind the second door is a room filled with water with no way to breathe. Behind the third door is a tiger that hasn\u2019t eaten in three years. Which door should you choose to escape safely?",
+        "answer": "The third door\u2014because the tiger would be dead after three years without food.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Three people check into a hotel room that costs $30. They each pay $10, and the manager later realizes the room costs only $25. He gives $5 to the bellboy to return to the guests. The bellboy keeps $2 as a tip and gives $1 back to each person. How much did they pay in total?",
+        "answer": "Each person paid $9 for a total of $27. Out of this, $25 went for the room and $2 went to the bellboy as a tip. No money is missing.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You are in a room with two doors: one leads to freedom and the other to a deadly trap. One door is guarded by a truthful guard, and the other by a lying guard. You can ask only one question to one guard. What do you ask to determine which door leads to freedom?",
+        "answer": "Ask either guard, 'If I were to ask the other guard which door leads to freedom, what would they say?' Then choose the opposite door.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "On an island, there are two types of people: truth-tellers who always tell the truth and liars who always lie. You encounter two people and ask one, 'If I asked the other person which road leads to the village, what would they say?' Which road should you take?",
+        "answer": "Take the opposite road.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A farmer needs to cross a river with a fox, a chicken, and a bag of grain. He can only carry one item at a time. If left together, the fox will eat the chicken, and the chicken will eat the grain. How can the farmer get all three across safely?",
+        "answer": "Take the chicken across first. Go back and take the fox across. Bring the chicken back, leaving the fox on the far side. Take the grain across and leave it with the fox. Finally, return to get the chicken.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have two identical eggs and a 100-story building. The eggs are very fragile, and you need to determine the highest floor from which you can drop an egg without breaking it. What is the minimum number of drops needed to find the answer?",
+        "answer": "14 drops.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A farmer needs to cross a river with a wolf, a goat, and a cabbage. The farmer can only take one at a time. If left together, the wolf will eat the goat, and the goat will eat the cabbage. How can the farmer get all three across safely?",
+        "answer": "Take the goat across first. Go back and take the wolf across. Bring the goat back, leaving the wolf on the far side. Take the cabbage across and leave it with the wolf. Finally, go back and bring the goat.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You are on an island with two tribes: one always tells the truth, and the other always lies. You meet two islanders, A and B. A says, 'We are both truth-tellers.' B says, 'A is lying.' Which tribe does each belong to?",
+        "answer": "A is a liar. B is a truth-teller.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You are in a room with three light switches, each controlling one of three light bulbs in another room. You can only go into the room with the bulbs once. How can you figure out which switch controls which bulb?",
+        "answer": "Turn on the first switch and wait a few minutes. Turn it off and turn on the second switch. Enter the room with the bulbs. The bulb that is warm but not on is controlled by the first switch. The bulb that is on is controlled by the second switch, and the bulb that is off and cold is controlled by the third switch.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You are in a room with three light switches, each controlling one of three light bulbs in another room. You can only go into the room with the bulbs once. How can you figure out which switch controls which bulb?",
+        "answer": "Turn on the first switch and wait a few minutes. Turn it off and turn on the second switch. Enter the room with the bulbs. The bulb that is warm but not on is controlled by the first switch. The bulb that is on is controlled by the second switch, and the bulb that is off and cold is controlled by the third switch.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A man lives on the 10th floor of a building. Every day, he takes the elevator to the ground floor to go to work. But when he returns home, he only goes up to the 7th floor and walks up the rest of the way. Why?",
+        "answer": "The man is short and cannot reach the button for the 10th floor when he returns.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Two trains start at the same time from different stations 100 miles apart and head toward each other. One travels at 50 miles per hour, and the other at 60 miles per hour. How long will it take them to meet?",
+        "answer": "1 hour.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have two coins. One is a fair coin, and one is a biased coin that lands on heads 2 out of 3 times. You flip the coin once and it lands on heads. What is the probability that you picked the biased coin?",
+        "answer": "2/3.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have three switches in a room. Each switch controls one of three bulbs in another room. You can only go into the room with the bulbs once. How do you figure out which switch controls which bulb?",
+        "answer": "Turn on the first switch and wait for a while. Turn it off and immediately turn on the second switch. Enter the bulb room. The bulb that is on is controlled by the second switch. The warm bulb is controlled by the first switch, and the cool bulb is controlled by the third switch.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have 10 coins in a row. 9 are heads-up, and 1 is tails-up. You are blindfolded. How can you make the coins split evenly with 5 heads-up and 5 tails-up without looking at them?",
+        "answer": "Flip any 5 coins.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have a chain of 10 links. You need to break the chain into 2 links, 3 links, 4 links, etc., by breaking the minimum number of links. How many links do you need to break?",
+        "answer": "3 links.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have 9 identical-looking balls, but one is slightly heavier. You also have a balance scale. What is the minimum number of weighings needed to find the heavier ball?",
+        "answer": "Two weighings: 1. Divide the balls into three groups of three and weigh two groups. If they balance, the heavier ball is in the remaining group. If not, it\u2019s in the heavier group. 2. Take the heavier group and weigh two balls. If they balance, the heavier ball is the one not weighed. If not, the heavier one is clear.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have two ropes that each burn for exactly 60 minutes, but they do not burn at a consistent rate. How can you measure exactly 45 minutes using only these ropes?",
+        "answer": "Light one rope at both ends and the other at one end. When the first rope has burned completely (30 minutes), light the other end of the second rope. The second rope will burn in 15 minutes, giving you a total of 45 minutes.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A group of friends attend a birthday party. How many people are at the party, including the birthday person, if there are 3 times as many girls as boys and 4 boys?",
+        "answer": "13 people.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have 12 coins. One of them is either heavier or lighter than the others. You have a balance scale and can only use it 3 times. How can you find the odd coin?",
+        "answer": "Divide the 12 coins into 3 groups of 4. Weigh two groups. If they\u2019re equal, the odd coin is in the third group. Then divide that group into 2 sets of 2, and weigh again.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A man is stuck at the bottom of a 30-foot well. Every day, he climbs 3 feet, but at night he slips back 2 feet. How many days will it take him to reach the top?",
+        "answer": "It will take him 28 days.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A man is trapped in a room with no windows, no doors, and no way out. There is a pencil, a piece of paper, and a matchbox inside the room. How does he escape?",
+        "answer": "He draws a door.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "If you mix one liter of water with one liter of wine, how much of the mixture is wine if you take out one liter of the mixture and replace it with water?",
+        "answer": "The amount of wine in the mixture remains the same because the wine is equally mixed.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Count the number of F's in the following sentence: \"FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS.\"",
+        "answer": "There are 6 F's.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have a 3-liter jug and a 5-liter jug. You need to measure exactly 4 liters of water, but neither jug has any measurement marks. How can you do it?",
+        "answer": "1. Fill the 5-liter jug completely. 2. Pour water from the 5-liter jug into the 3-liter jug until it is full. 3. Empty the 3-liter jug. 4. Pour the remaining 2 liters from the 5-liter jug into the 3-liter jug. 5. Fill the 5-liter jug again. 6. Pour water from the 5-liter jug into the 3-liter jug until it is full. You now have exactly 4 liters in the 5-liter jug.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A bus leaves the station every 30 minutes. If the bus left at 9:00 AM and the next one left at 9:30 AM, what time did the bus leave the station?",
+        "answer": "9:00 AM.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "If you travel halfway to your destination and then halfway again, how many times will you need to do this before you reach the destination?",
+        "answer": "Infinite times.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have a balance scale and 12 coins. One coin is either heavier or lighter than the rest. How can you find the odd coin in 3 weighings?",
+        "answer": "First, divide the 12 coins into 3 groups of 4. Weigh two groups. If they are equal, the odd coin is in the third group. If they are not equal, the odd coin is in the heavier or lighter group. Repeat the process with fewer coins.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "In a hotel with an infinite number of rooms, each room is occupied. A new guest arrives. How can the hotel accommodate the new guest?",
+        "answer": "Move the person in Room 1 to Room 2, the person in Room 2 to Room 3, and so on. The guest can then be placed in Room 1.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A father is 30 years older than his son. In 10 years, the father will be twice as old as his son. How old are they now?",
+        "answer": "The father is 40 years old and the son is 10 years old.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A father is twice as old as his son. In 10 years, the father will be 30 years older than his son. How old are they now?",
+        "answer": "The father is 40 years old, and the son is 20 years old.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A mother has four children. The first three are named North, East, and South. What is the name of the fourth child?",
+        "answer": "West.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A man is 3 times as old as his son. In 12 years, the father will be twice as old as his son. How old are they now?",
+        "answer": "The father is 36 years old, and the son is 12 years old.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have a box of matches, a candle, and a book. How do you light the candle using the matches and the book?",
+        "answer": "Strike the match on the book to light it, then use the match to light the candle.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "How many people must be in a room before there\u2019s a 50% chance that two of them share the same birthday?",
+        "answer": "23 people.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have 15 matchsticks. Can you make four triangles of equal size by using all the matchsticks?",
+        "answer": "Yes. You can form a tetrahedron shape using all the matchsticks.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have a 5-gallon jug and a 3-gallon jug. How can you measure exactly 4 gallons of water?",
+        "answer": "Fill the 5-gallon jug, pour into the 3-gallon jug until it\u2019s full, leaving 2 gallons in the 5-gallon jug. Then empty the 3-gallon jug and pour the remaining 2 gallons into it. Fill the 5-gallon jug again and pour into the 3-gallon jug until it has 1 gallon. You now have 4 gallons in the 5-gallon jug.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A clock shows the correct time twice a day, but it isn\u2019t running. How is this possible?",
+        "answer": "It\u2019s a broken analog clock that remains at one specific time.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "A woman has 5 sons. Each of her sons has 4 sisters. How many children does she have?",
+        "answer": "9 children.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "If a tree falls in a forest and no one is around to hear it, does it make a sound?",
+        "answer": "Yes, it does make a sound.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "You have a 5-liter jug and a 3-liter jug. How can you measure exactly 4 liters?",
+        "answer": "Fill the 5-liter jug and pour it into the 3-liter jug. The 3-liter jug will be full, leaving exactly 2 liters in the 5-liter jug. Empty the 3-liter jug and pour the 2 liters from the 5-liter jug into the 3-liter jug. Fill the 5-liter jug again, and pour it into the 3-liter jug until it's full. The 5-liter jug will now contain exactly 4 liters.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "answer": "The letter 'M'.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Using only one straight line, make the equation below correct: 5 + 5 + 5 = 550",
+        "answer": "Draw a straight line to turn the first '+' into '4': 545 + 5 = 550",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "Which of these is the odd one out: Apple, Banana, Carrot, Grapes?",
+        "answer": "Carrot.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "What happens when an unstoppable force hits an immovable object?",
+        "answer": "This is a paradox. In physics, such a scenario cannot exist because it violates the laws of nature. Both concepts are theoretical and cannot coexist.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "What is the next number in this sequence: 1, 4, 9, 16, 25, ___?",
+        "answer": "36.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "If you have 10 pencils and you lose one, how many do you have?",
+        "answer": "9 pencils.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "What is the missing letter in this sequence: A, D, G, J, ___?",
+        "answer": "M.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "How many psychologists does it take to change a light bulb?",
+        "answer": "One, but it takes many sessions to understand why the bulb is burnt out.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "How many fingers are there in total on 20 people\u2019s hands?",
+        "answer": "100 fingers.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "What comes next in the sequence: 1, 3, 5, 7, 9, ___?",
+        "answer": "11.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "If a duck has one leg, what do you call it?",
+        "answer": "A duck.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "How many squares are there on a chessboard?",
+        "answer": "204 squares.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "How many months of the year have 28 days?",
+        "answer": "All 12 months have at least 28 days.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "description": "How many sides does a triangle have?",
+        "answer": "Three sides.",
+        "category": "Brainteaser Quiz"
+    },
+    {
+        "title": "Isaac Newton \u2013 Laws of Motion and Gravity",
+        "description": "One day, Isaac Newton saw an apple fall from a tree. This simple moment made him wonder why objects fall to the ground. He discovered gravity\u2014a force that pulls everything toward Earth\u2014and created the three laws of motion, which explain how things move.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Isaac Newton.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Albert Einstein \u2013 Theory of Relativity",
+        "description": "Albert Einstein imagined riding on a beam of light. He discovered the famous equation E=mc^2, which showed how energy and mass are related. This helped scientists understand the universe better.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Albert Einstein.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Charles Darwin \u2013 Theory of Evolution",
+        "description": "Charles Darwin studied animals and plants on his trip to the Gal\u00e1pagos Islands. He discovered that living things change over time to adapt to their surroundings, a process called evolution.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Charles Darwin.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "C.V. Raman \u2013 Raman Effect (Scattering of Light)",
+        "description": "While studying how light behaves when it passes through liquids, C.V. Raman discovered something unique. This earned him a Nobel Prize and helped scientists understand light better.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//C.V. Raman.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Thomas Edison \u2013 Light Bulb",
+        "description": "Thomas Edison believed in trying until he succeeded. After thousands of attempts, he invented the practical electric light bulb, bringing light into our homes and lives.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Thomas Edison.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Alexander Graham Bell \u2013 Telephone",
+        "description": "Alexander Graham Bell wanted to help people communicate from far away. He invented the telephone, making it possible to talk to someone in another city or country.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Alexander Graham Bell.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Marie Curie \u2013 Discovery of Radium and Polonium",
+        "description": "Marie Curie worked with strange, glowing materials and discovered radium and polonium, which led to important advancements in treating cancer with radiation.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Marie Curie.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Galileo Galilei \u2013 Telescope Discoveries",
+        "description": "Galileo built a telescope and looked up at the sky. He discovered moons around Jupiter and proved that Earth moves around the Sun, not the other way around.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Galileo Galilei.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Satyendra Nath Bose \u2013 Bosons and Quantum Physics",
+        "description": "S.N. Bose worked on quantum mechanics and helped discover particles called bosons, which are named after him. His work was instrumental in modern physics.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Louis Pasteur \u2013 Germ Theory and Pasteurization",
+        "description": "Louis Pasteur discovered that tiny germs cause diseases. He also invented pasteurization, a process to make milk and other foods safer to drink and eat.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Nikola Tesla \u2013 Alternating Current (AC)",
+        "description": "Nikola Tesla believed in a future powered by electricity. He created the system of alternating current (AC), which powers our homes and cities today.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Michael Faraday \u2013 Electromagnetism",
+        "description": "Michael Faraday played with magnets and wires. He discovered how to create electricity, which led to the invention of electric motors and generators.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Srinivasa Ramanujan \u2013 Mathematical Genius",
+        "description": "Ramanujan, with no formal training, made incredible discoveries in mathematics, some of which are still used in modern science and technology.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Jagadish Chandra Bose \u2013 Wireless Communication",
+        "description": "J.C. Bose showed how wireless signals could travel through the air, paving the way for modern wireless communication like radio and Wi-Fi.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Archimedes \u2013 Buoyancy and Levers",
+        "description": "Archimedes jumped out of his bathtub shouting 'Eureka!' He had discovered the principle of buoyancy, which explains why some things float.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Gregor Mendel \u2013 Father of Genetics",
+        "description": "Gregor Mendel studied pea plants in a garden. He discovered how traits like height and color are passed from parents to their children.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Wright Brothers \u2013 Airplane",
+        "description": "Orville and Wilbur Wright dreamed of flying like birds. They built and flew the first successful airplane, making air travel possible.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Dmitri Mendeleev \u2013 Periodic Table",
+        "description": "Dmitri Mendeleev organized elements like building blocks and created the periodic table, which helps scientists understand chemicals.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Dmitri Mendeleev.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Edward Jenner \u2013 Vaccination",
+        "description": "Edward Jenner noticed that milkmaids who got cowpox didn\u2019t catch smallpox. He developed the first vaccine, saving millions of lives.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Rachel Carson \u2013 Environmental Science",
+        "description": "Rachel Carson\u2019s book 'Silent Spring' raised awareness about the dangers of pesticides, inspiring the modern environmental movement.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Homi Bhabha \u2013 Father of Indian Nuclear Science",
+        "description": "Homi Bhabha laid the foundation for nuclear research in India, leading to the development of nuclear energy for peaceful purposes.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Homi Bhabha.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "James Watt \u2013 Steam Engine",
+        "description": "James Watt improved the steam engine, which helped power trains and factories, marking the start of the Industrial Revolution.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//James Watt.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Stephen Hawking \u2013 Black Holes",
+        "description": "Stephen Hawking studied mysterious black holes in space and discovered that they emit radiation, now called Hawking radiation.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Stephen Hawking.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Johannes Gutenberg \u2013 Printing Press",
+        "description": "Johannes Gutenberg invented the printing press, making it easier to produce books and spread knowledge across the world.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Dr. A.P.J. Abdul Kalam \u2013 Missile Man of India",
+        "description": "Dr. Kalam worked on India\u2019s missile programs and helped design rockets that took India\u2019s space missions to new heights.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Dr. A.P.J. Abdul Kalam.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Vikram Sarabhai \u2013 Father of Indian Space Program",
+        "description": "Vikram Sarabhai started ISRO (Indian Space Research Organisation), helping India launch satellites and explore space.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Vikram Sarabhai.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Meghnad Saha \u2013 Thermal Ionization",
+        "description": "Meghnad Saha developed a formula that helps scientists understand the temperature of stars by studying their light.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Har Gobind Khorana \u2013 Synthetic Genes",
+        "description": "H.G. Khorana figured out how to create artificial genes, a discovery that changed medicine and biology forever.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Prafulla Chandra Ray \u2013 Father of Indian Chemistry",
+        "description": "P.C. Ray discovered new chemical compounds and started Bengal Chemicals, India\u2019s first pharmaceutical company.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Edwin Hubble \u2013 Expanding Universe",
+        "description": "Edwin Hubble discovered that galaxies are moving away from each other, proving that the universe is expanding.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Henri Becquerel \u2013 Radioactivity",
+        "description": "Henri Becquerel found that uranium rocks gave off invisible rays, leading to the discovery of radioactivity.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Ada Lovelace \u2013 First Computer Programmer",
+        "description": "Ada Lovelace wrote instructions for an early computer, making her the world\u2019s first computer programmer.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Benjamin Franklin \u2013 Electricity",
+        "description": "Benjamin Franklin flew a kite during a thunderstorm and proved that lightning is a form of electricity.",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Benjamin Franklin.jpg",
+        "category": "Scientist"
+    },
+    {
+        "title": "Wilhelm R\u00f6ntgen \u2013 X-rays",
+        "description": "Wilhelm R\u00f6ntgen discovered X-rays, allowing doctors to see inside the human body without surgery.",
+        "category": "Scientist"
+    },
+    {
+        "title": "Rosalind Franklin \u2013 DNA Structure",
+        "description": "Rosalind Franklin used X-ray images to reveal the spiral structure of DNA, the blueprint of life.",
+        "category": "Scientist"
+    },
+    {
+        "title": "John Logie Baird \u2013 Television",
+        "description": "John Logie Baird invented the television, bringing moving pictures into people's homes.",
+        "category": "Scientist"
+    }
 ]
