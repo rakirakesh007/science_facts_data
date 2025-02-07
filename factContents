@@ -2997,49 +2997,49 @@
     {
         "title": "Isaac Newton \u2013 Laws of Motion and Gravity",
         "description": "One day, Isaac Newton saw an apple fall from a tree. This simple moment made him wonder why objects fall to the ground. He discovered gravity\u2014a force that pulls everything toward Earth\u2014and created the three laws of motion, which explain how things move.",
-        "image": "assets/scientist/Isaac Newton.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Isaac Newton.jpg",
         "category": "Scientist"
     },
     {
         "title": "Albert Einstein \u2013 Theory of Relativity",
         "description": "Albert Einstein imagined riding on a beam of light. He discovered the famous equation E=mc^2, which showed how energy and mass are related. This helped scientists understand the universe better.",
-        "image": "assets/scientist/Albert Einstein.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Albert Einstein.jpg",
         "category": "Scientist"
     },
     {
         "title": "Charles Darwin \u2013 Theory of Evolution",
         "description": "Charles Darwin studied animals and plants on his trip to the Gal\u00e1pagos Islands. He discovered that living things change over time to adapt to their surroundings, a process called evolution.",
-        "image": "assets/scientist/Charles Darwin.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Charles Darwin.jpg",
         "category": "Scientist"
     },
     {
         "title": "C.V. Raman \u2013 Raman Effect (Scattering of Light)",
         "description": "While studying how light behaves when it passes through liquids, C.V. Raman discovered something unique. This earned him a Nobel Prize and helped scientists understand light better.",
-        "image": "assets/scientist/C.V. Raman.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//C.V. Raman.jpg",
         "category": "Scientist"
     },
     {
         "title": "Thomas Edison \u2013 Light Bulb",
         "description": "Thomas Edison believed in trying until he succeeded. After thousands of attempts, he invented the practical electric light bulb, bringing light into our homes and lives.",
-        "image": "assets/scientist/Thomas Edison.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Thomas Edison.jpg",
         "category": "Scientist"
     },
     {
         "title": "Alexander Graham Bell \u2013 Telephone",
         "description": "Alexander Graham Bell wanted to help people communicate from far away. He invented the telephone, making it possible to talk to someone in another city or country.",
-        "image": "assets/scientist/Alexander Graham Bell.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Alexander Graham Bell.jpg",
         "category": "Scientist"
     },
     {
         "title": "Marie Curie \u2013 Discovery of Radium and Polonium",
         "description": "Marie Curie worked with strange, glowing materials and discovered radium and polonium, which led to important advancements in treating cancer with radiation.",
-        "image": "assets/scientist/Marie Curie.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Marie Curie.jpg",
         "category": "Scientist"
     },
     {
         "title": "Galileo Galilei \u2013 Telescope Discoveries",
         "description": "Galileo built a telescope and looked up at the sky. He discovered moons around Jupiter and proved that Earth moves around the Sun, not the other way around.",
-        "image": "assets/scientist/Galileo Galilei.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Galileo Galilei.jpg",
         "category": "Scientist"
     },
     {
@@ -3090,7 +3090,7 @@
     {
         "title": "Dmitri Mendeleev \u2013 Periodic Table",
         "description": "Dmitri Mendeleev organized elements like building blocks and created the periodic table, which helps scientists understand chemicals.",
-        "image": "assets/scientist/Dmitri Mendeleev.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Dmitri Mendeleev.jpg",
         "category": "Scientist"
     },
     {
@@ -3106,19 +3106,19 @@
     {
         "title": "Homi Bhabha \u2013 Father of Indian Nuclear Science",
         "description": "Homi Bhabha laid the foundation for nuclear research in India, leading to the development of nuclear energy for peaceful purposes.",
-        "image": "assets/scientist/Homi Bhabha.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Homi Bhabha.jpg",
         "category": "Scientist"
     },
     {
         "title": "James Watt \u2013 Steam Engine",
         "description": "James Watt improved the steam engine, which helped power trains and factories, marking the start of the Industrial Revolution.",
-        "image": "assets/scientist/James Watt.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//James Watt.jpg",
         "category": "Scientist"
     },
     {
         "title": "Stephen Hawking \u2013 Black Holes",
         "description": "Stephen Hawking studied mysterious black holes in space and discovered that they emit radiation, now called Hawking radiation.",
-        "image": "assets/scientist/Stephen Hawking.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Stephen Hawking.jpg",
         "category": "Scientist"
     },
     {
@@ -3129,13 +3129,13 @@
     {
         "title": "Dr. A.P.J. Abdul Kalam \u2013 Missile Man of India",
         "description": "Dr. Kalam worked on India\u2019s missile programs and helped design rockets that took India\u2019s space missions to new heights.",
-        "image": "assets/scientist/Dr. A.P.J. Abdul Kalam.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Dr. A.P.J. Abdul Kalam.jpg",
         "category": "Scientist"
     },
     {
         "title": "Vikram Sarabhai \u2013 Father of Indian Space Program",
         "description": "Vikram Sarabhai started ISRO (Indian Space Research Organisation), helping India launch satellites and explore space.",
-        "image": "assets/scientist/Vikram Sarabhai.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Vikram Sarabhai.jpg",
         "category": "Scientist"
     },
     {
@@ -3171,7 +3171,7 @@
     {
         "title": "Benjamin Franklin \u2013 Electricity",
         "description": "Benjamin Franklin flew a kite during a thunderstorm and proved that lightning is a form of electricity.",
-        "image": "assets/scientist/Benjamin Franklin.jpg",
+        "image": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/scientist//Benjamin Franklin.jpg",
         "category": "Scientist"
     },
     {
