@@ -1,5 +1,5 @@
 [
-{
+  {
     "title": "The Wonders of Physics",
     "description": "Dive deep into the laws of nature! Discover how the universe operates, from the speed of light to the mysteries of gravity and motion. Learn how forces, energy, and matter interact to shape the world around us.",
     "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/physics.jpg",
@@ -21,6 +21,13 @@
     "category": "Biology"
   },
   {
+    "title": "Earth's Secrets",
+    "description": "Explore the planet we call home! Understand how Earth's layers were formed, the processes that shape landscapes, and the importance of natural cycles like the water and carbon cycles. Delve into geology, meteorology, and Earth's ever-changing climate.",
+    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/earth_science.jpg",
+    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/earth_science_icon.png",
+    "category": "Earth Science"
+  },
+  {
     "title": "Exploring the Cosmos",
     "description": "Take a journey through the universe! Learn about stars, galaxies, planets, and cosmic phenomena like black holes and supernovas. Unravel the mysteries of space and imagine the possibilities of life beyond Earth.",
     "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/universe.jpg",
@@ -28,11 +35,11 @@
     "category": "Universe"
   },
   {
-    "title": "Earth's Secrets",
-    "description": "Explore the planet we call home! Understand how Earth's layers were formed, the processes that shape landscapes, and the importance of natural cycles like the water and carbon cycles. Delve into geology, meteorology, and Earth's ever-changing climate.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/earth_science.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/earth_science_icon.png",
-    "category": "Earth Science"
+    "title": "Geography Adventures",
+    "description": "Embark on a journey across the globe! Learn about continents, countries, cultures, and natural wonders. Explore mountains, rivers, and deserts, and understand how geography influences climate, ecosystems, and human life.",
+    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/geography.jpg",
+    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/geography_icon.png",
+    "category": "Geography"
   },
   {
     "title": "Health & Wellness",
@@ -49,13 +56,6 @@
     "category": "Technology and Engineering"
   },
   {
-    "title": "Geography Adventures",
-    "description": "Embark on a journey across the globe! Learn about continents, countries, cultures, and natural wonders. Explore mountains, rivers, and deserts, and understand how geography influences climate, ecosystems, and human life.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/geography.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/geography_icon.png",
-    "category": "Geography"
-  },
-{
     "title": "Exploring the Human Mind",
     "description": "Understand how the brain works and why we think, feel, and act the way we do. Learn about emotions, memory, problem-solving, and behavior. Explore the fascinating field of psychology and how it impacts everyday life.",
     "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/psychology.jpg",
@@ -69,7 +69,14 @@
     "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/scientist_icon.png",
     "category": "Scientist"
   },
-{
+  {
+    "title": "A Timeline of Science!",
+    "description": "Explore the most important scientific discoveries that shaped our world! From ancient inventions to modern breakthroughs, this timeline takes you through the greatest moments in science history in a fun and engaging way.",
+    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/timeline.jpg",
+    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/timeline_icon.png",
+    "category": "Timeline"
+  },
+  {
     "title": "Fun Brain Teasers",
     "description": "Sharpen your mind with fun challenges! Solve puzzles, riddles, and logic games designed to test your creativity, memory, and critical thinking skills. Perfect for curious learners of all ages!",
     "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/brainteaser_quiz.jpg",
