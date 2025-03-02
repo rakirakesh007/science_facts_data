@@ -49,6 +49,13 @@
     "category": "Health"
   },
   {
+    "title": "Science in Everyday Life",
+    "description": "Discover the hidden science behind daily activities! Why does soap clean? How do microwaves heat food? Why does ice float? Learn the simple yet fascinating scientific principles that shape your everyday life.",
+    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/everyday_science.jpg",
+    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/everyday_science_icon.png",
+    "category": "Everyday Science"
+  },
+  {
     "title": "Technological Marvels",
     "description": "Experience the power of human innovation! From ancient tools to cutting-edge robotics and artificial intelligence, learn how technology transforms our world. Discover the engineering feats behind modern conveniences and futuristic breakthroughs.",
     "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/technology.jpg",
@@ -61,26 +68,5 @@
     "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/psychology.jpg",
     "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/psychology_icon.png",
     "category": "Psychology"
-  },
-  {
-    "title": "Genius Minds",
-    "description": "Get inspired by the greatest thinkers in history! Learn about brilliant scientists, inventors, and their groundbreaking discoveries that revolutionized the way we understand the world. Celebrate the minds that made history.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/scientist.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/scientist_icon.png",
-    "category": "Scientist"
-  },
-  {
-    "title": "A Timeline of Science!",
-    "description": "Explore the most important scientific discoveries that shaped our world! From ancient inventions to modern breakthroughs, this timeline takes you through the greatest moments in science history in a fun and engaging way.",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/timeline.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/timeline_icon.png",
-    "category": "Timeline"
-  },
-  {
-    "title": "Fun Brain Teasers",
-    "description": "Sharpen your mind with fun challenges! Solve puzzles, riddles, and logic games designed to test your creativity, memory, and critical thinking skills. Perfect for curious learners of all ages!",
-    "imageURL": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/brainteaser_quiz.jpg",
-    "icon": "https://raw.githubusercontent.com/rakirakesh007/science_facts_data/main/assets/homepage/brainteaser_quiz_icon.png",
-    "category": "Brainteaser Quiz"
   }
 ]
