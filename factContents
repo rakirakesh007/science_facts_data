@@ -3188,5 +3188,505 @@
         "title": "John Logie Baird \u2013 Television",
         "description": "John Logie Baird invented the television, bringing moving pictures into people's homes.",
         "category": "Scientist"
+    },
+{
+        "title": "Soap Cleans by Breaking Down Oils",
+        "description": "Soap molecules have a unique structure with one end that attracts water and another that attracts oil and grease. This allows soap to break down dirt and bacteria, helping you clean effectively.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Ice Floats Because It\u2019s Less Dense Than Water",
+        "description": "Unlike most substances, water expands when it freezes, making ice less dense than liquid water. This is why ice floats, helping to regulate Earth's climate and protect aquatic life.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Microwaves Heat Food by Exciting Water Molecules",
+        "description": "Microwave ovens emit electromagnetic waves that cause water molecules in food to vibrate rapidly, generating heat and cooking your food from the inside out.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Refrigerators Keep Food Fresh by Slowing Bacterial Growth",
+        "description": "Cold temperatures slow down bacterial reproduction, preventing food from spoiling quickly. This helps preserve food and reduces waste.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do We See Rainbows?",
+        "description": "Rainbows form when sunlight is refracted, dispersed, and reflected inside raindrops, creating a spectrum of colors in the sky.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do We Get Goosebumps?",
+        "description": "Goosebumps occur when tiny muscles at the base of hair follicles contract in response to cold or strong emotions, a reflex inherited from our ancestors.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Static Electricity Makes Hair Stand Up",
+        "description": "When you rub a balloon on your hair, it transfers electrons, giving your hair a positive charge, making strands repel and stand up.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Cold Water Boils Faster at High Altitudes",
+        "description": "At higher altitudes, atmospheric pressure is lower, which means water boils at a lower temperature, making it take longer to cook food.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Does Hot Water Freeze Faster Than Cold Water?",
+        "description": "This phenomenon, known as the Mpemba effect, occurs under specific conditions where hot water can freeze faster than cold water due to evaporation and molecular differences.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Does Metal Feel Colder Than Wood?",
+        "description": "Metal is a good conductor of heat, so it absorbs heat from your skin quickly, making it feel colder, even though both are the same temperature.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Your Body Generates Electricity",
+        "description": "The human body produces electrical signals for muscle movement and brain function. The nervous system relies on tiny electrical impulses to send messages.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Glass is Actually a Slow-Moving Liquid",
+        "description": "Although it appears solid, glass has an atomic structure similar to a liquid and moves extremely slowly over time.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Bananas Are Radioactive",
+        "description": "Bananas contain potassium-40, a naturally radioactive isotope, but the levels are harmless to humans.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "You Can't See Infrared Light, But Some Animals Can",
+        "description": "Humans cannot see infrared light, but snakes, bats, and some fish use it to detect heat and navigate in the dark.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Plants 'Sweat' Through Transpiration",
+        "description": "Plants release water vapor through tiny pores in their leaves, which helps them stay cool and take up nutrients from the soil.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Airplanes Fly Due to Bernoulli\u2019s Principle",
+        "description": "Air moves faster over the curved upper surface of an airplane wing, creating lower pressure above the wing and lifting the plane.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Boiling Water in Space Makes Floating Spheres",
+        "description": "In space, without gravity, boiling water forms floating bubbles instead of rising as steam.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Airplane Windows Have Tiny Holes?",
+        "description": "The small hole in airplane windows regulates air pressure between the inner and outer layers, preventing them from breaking.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "How Do Sunglasses Block UV Rays?",
+        "description": "Polarized sunglasses contain special filters that block harmful ultraviolet (UV) light, protecting your eyes from sun damage.",
+        "category": "Everyday Science"
+    },
+    {
+        "title": "Why Do Hot Drinks Cool Down?",
+        "description": "Heat energy escapes from hot liquids into the surrounding air, cooling them over time due to convection and evaporation.",
+        "category": "Everyday Science"
     }
 ]
